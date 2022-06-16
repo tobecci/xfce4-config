@@ -2,8 +2,8 @@
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="Mojave-dark-solid-alt"/>
-    <property name="IconThemeName" type="string" value="Newaita-reborn-dark"/>
+    <property name="ThemeName" type="string" value="Mojave-dark"/>
+    <property name="IconThemeName" type="string" value="Papirus-Dark"/>
     <property name="DoubleClickTime" type="empty"/>
     <property name="DoubleClickDistance" type="empty"/>
     <property name="DndDragThreshold" type="empty"/>
@@ -23,7 +23,7 @@
   <property name="Gtk" type="empty">
     <property name="CanChangeAccels" type="empty"/>
     <property name="ColorPalette" type="empty"/>
-    <property name="FontName" type="string" value="SF Pro Display Semi-Bold 10"/>
+    <property name="FontName" type="string" value="SF UI Text Semi-Bold 10"/>
     <property name="MonospaceFontName" type="string" value="SF Mono Semi-Bold 10"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>

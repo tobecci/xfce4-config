@@ -1,6 +1,6 @@
-favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,chromium.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,panel-preferences.desktop,xfce-backdrop-settings.desktop,xfce-keyboard-settings.desktop,xfce-workspaces-settings.desktop
-recent=octopi.desktop,manjaro-settings-manager.desktop,xfce-keyboard-settings.desktop,xfce-wmtweaks-settings.desktop,xfce-backdrop-settings.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xfce-workspaces-settings.desktop,xfce4-screensaver-preferences.desktop,xfce-mouse-settings.desktop
-button-icon=draw-rectangle-rounded
+favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,panel-preferences.desktop,xfce-backdrop-settings.desktop,xfce-keyboard-settings.desktop,xfce-workspaces-settings.desktop
+recent=xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,xfce-keyboard-settings.desktop,xfce-mouse-settings.desktop,xfce-ui-settings.desktop,manjaro-settings-manager.desktop,xfce-backdrop-settings.desktop,xfce-workspaces-settings.desktop
+button-icon=draw-circle
 button-single-row=false
 show-button-title=false
 show-button-icon=true
