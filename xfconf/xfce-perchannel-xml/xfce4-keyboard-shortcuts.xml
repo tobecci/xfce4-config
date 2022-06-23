@@ -45,7 +45,6 @@
       </property>
       <property name="Print" type="string" value="xfce4-screenshooter"/>
       <property name="&lt;Primary&gt;Escape" type="string" value="xfdesktop --menu"/>
-      <property name="&lt;Shift&gt;Print" type="string" value="xfce4-screenshooter -r"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="string" value="thunar"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="xflock4"/>
@@ -62,10 +61,11 @@
       <property name="&lt;Shift&gt;&lt;Super&gt;b" type="string" value="pavucontrol"/>
       <property name="&lt;Super&gt;b" type="string" value="blueman-manager"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;f" type="string" value="firefox"/>
-      <property name="&lt;Super&gt;space" type="string" value="xfdesktop --windowlist"/>
-      <property name="&lt;Alt&gt;F1" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;q" type="string" value="xfce4-session-logout -r"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;z" type="string" value="xfce4-session-logout -s"/>
+      <property name="&lt;Super&gt;Tab" type="string" value="xfdesktop --windowlist"/>
+      <property name="&lt;Super&gt;space" type="string" value="xfce4-popup-whiskermenu"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;s" type="string" value="xfce4-screenshooter -r"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
@@ -146,7 +146,6 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;Right" type="string" value="right_workspace_key"/>
       <property name="&lt;Alt&gt;F6" type="string" value="stick_window_key"/>
       <property name="&lt;Primary&gt;F11" type="string" value="workspace_11_key"/>
-      <property name="&lt;Super&gt;Tab" type="string" value="switch_window_key"/>
       <property name="&lt;Super&gt;KP_Page_Up" type="string" value="tile_up_right_key"/>
       <property name="Up" type="string" value="up_key"/>
       <property name="&lt;Alt&gt;space" type="string" value="popup_menu_key"/>

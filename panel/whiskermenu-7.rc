@@ -1,5 +1,5 @@
-favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,panel-preferences.desktop,xfce-backdrop-settings.desktop,xfce-keyboard-settings.desktop,xfce-workspaces-settings.desktop
-recent=xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,xfce-keyboard-settings.desktop,xfce-mouse-settings.desktop,xfce-ui-settings.desktop,manjaro-settings-manager.desktop,xfce-backdrop-settings.desktop,xfce-workspaces-settings.desktop
+favorites=xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,panel-preferences.desktop,xfce-backdrop-settings.desktop,xfce-keyboard-settings.desktop,xfce-workspaces-settings.desktop,octopi.desktop,manjaro-settings-manager.desktop
+recent=xfce-keyboard-settings.desktop,manjaro-settings-manager.desktop,panel-preferences.desktop,octopi.desktop,xfce-ui-settings.desktop,qt5ct.desktop,xfce-wm-settings.desktop,xfce-workspaces-settings.desktop,xfce-wmtweaks-settings.desktop,xfce-mouse-settings.desktop
 button-icon=draw-circle
 button-single-row=false
 show-button-title=false
@@ -8,7 +8,7 @@ launcher-show-name=true
 launcher-show-description=false
 launcher-show-tooltip=true
 launcher-icon-size=0
-hover-switch-category=true
+hover-switch-category=false
 category-show-name=true
 category-icon-size=0
 sort-categories=true

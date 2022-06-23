@@ -10,12 +10,13 @@
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="16"/>
-      <property name="size" type="uint" value="23"/>
+      <property name="size" type="uint" value="30"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="7"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
         <value type="int" value="5"/>
+        <value type="int" value="1"/>
         <value type="int" value="6"/>
         <value type="int" value="8"/>
         <value type="int" value="9"/>
@@ -85,5 +86,6 @@
       </property>
     </property>
     <property name="plugin-7" type="string" value="whiskermenu"/>
+    <property name="plugin-1" type="string" value="netload"/>
   </property>
 </channel>

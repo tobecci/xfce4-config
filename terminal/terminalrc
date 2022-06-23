@@ -1,5 +1,4 @@
 [Configuration]
-FontUseSystem=TRUE
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
@@ -29,4 +28,5 @@ MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
 ColorUseTheme=TRUE
+FontUseSystem=TRUE
 
