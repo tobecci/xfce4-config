@@ -52,6 +52,8 @@
         <value type="string" value="pamac-tray"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="gpclient"/>
+        <value type="string" value="MSM Notifier"/>
         <value type="string" value="blueman"/>
       </property>
     </property>
