@@ -1,5 +1,5 @@
 favorites=xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,panel-preferences.desktop,xfce-backdrop-settings.desktop,xfce-keyboard-settings.desktop,xfce-workspaces-settings.desktop,manjaro-settings-manager.desktop,com.yuezk.qt.gpclient.desktop,net.lutris.Lutris.desktop
-recent=xfce-keyboard-settings.desktop,xfce-wm-settings.desktop,com.yuezk.qt.gpclient.desktop,net.lutris.Lutris.desktop,xfce-wmtweaks-settings.desktop,manjaro-settings-manager.desktop,org.xfce.mousepad.desktop,qt5ct.desktop,kvantummanager.desktop,xfce4-power-manager-settings.desktop
+recent=net.lutris.Lutris.desktop,xfce-keyboard-settings.desktop,xfce-wm-settings.desktop,com.yuezk.qt.gpclient.desktop,xfce-wmtweaks-settings.desktop,manjaro-settings-manager.desktop,org.xfce.mousepad.desktop,qt5ct.desktop,kvantummanager.desktop,xfce4-power-manager-settings.desktop
 button-icon=draw-circle
 button-single-row=false
 show-button-title=false
