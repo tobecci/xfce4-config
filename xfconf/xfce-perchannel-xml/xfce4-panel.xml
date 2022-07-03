@@ -19,8 +19,8 @@
         <value type="int" value="1"/>
         <value type="int" value="6"/>
         <value type="int" value="8"/>
-        <value type="int" value="9"/>
         <value type="int" value="10"/>
+        <value type="int" value="4"/>
         <value type="int" value="11"/>
         <value type="int" value="12"/>
         <value type="int" value="13"/>
@@ -45,6 +45,14 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “69” active: 69 (72%)"/>
+        <value type="string" value="bluetooth enabled"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (71%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (76%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (75%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (73%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (100%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (74%)"/>
         <value type="string" value="thunar"/>
         <value type="string" value="clipman"/>
         <value type="string" value="networkmanager applet"/>
@@ -60,6 +68,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="firefox.instance1351;firefox.instance2130"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -89,5 +98,6 @@
     </property>
     <property name="plugin-7" type="string" value="whiskermenu"/>
     <property name="plugin-1" type="string" value="netload"/>
+    <property name="plugin-4" type="string" value="power-manager-plugin"/>
   </property>
 </channel>

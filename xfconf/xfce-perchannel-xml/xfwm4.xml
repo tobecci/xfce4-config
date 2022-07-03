@@ -16,7 +16,7 @@
     <property name="cycle_hidden" type="bool" value="true"/>
     <property name="cycle_minimum" type="bool" value="true"/>
     <property name="cycle_minimized" type="bool" value="false"/>
-    <property name="cycle_preview" type="bool" value="true"/>
+    <property name="cycle_preview" type="bool" value="false"/>
     <property name="cycle_tabwin_mode" type="int" value="1"/>
     <property name="cycle_workspaces" type="bool" value="false"/>
     <property name="double_click_action" type="string" value="maximize"/>
@@ -51,9 +51,9 @@
     <property name="shadow_delta_y" type="int" value="-3"/>
     <property name="shadow_opacity" type="int" value="50"/>
     <property name="show_app_icon" type="bool" value="false"/>
-    <property name="show_dock_shadow" type="bool" value="true"/>
-    <property name="show_frame_shadow" type="bool" value="true"/>
-    <property name="show_popup_shadow" type="bool" value="true"/>
+    <property name="show_dock_shadow" type="bool" value="false"/>
+    <property name="show_frame_shadow" type="bool" value="false"/>
+    <property name="show_popup_shadow" type="bool" value="false"/>
     <property name="snap_resist" type="bool" value="false"/>
     <property name="snap_to_border" type="bool" value="true"/>
     <property name="snap_to_windows" type="bool" value="false"/>
