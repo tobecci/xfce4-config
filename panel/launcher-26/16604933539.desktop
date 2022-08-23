@@ -1,0 +1,23 @@
+[Desktop Entry]
+Categories=System;Tools;
+Comment[en_US]=Add or remove software installed on the system
+Comment=Add or remove software installed on the system
+Exec=/usr/bin/octopi
+Name[en_US]=Octopi
+Name=Octopi
+Icon=octopi
+MimeType=
+GenericName[en_US]=Add/Remove Software
+GenericName=Add/Remove Software
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Version=1.5
+SingleMainWindow=true
+X-XFCE-Source=file:///usr/share/applications/octopi.desktop

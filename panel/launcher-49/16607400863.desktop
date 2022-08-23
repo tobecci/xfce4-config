@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Name=Power Manager
+GenericName=Power Manager
+Comment=Settings for the Xfce Power Manager
+Exec=xfce4-power-manager-settings
+Icon=org.xfce.powermanager
+Terminal=false
+Type=Application
+Categories=XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;
+Keywords=settings;preferences;buttons;sleep;hibernate;battery;suspend;shutdown;brightness;laptop lid;lock screen;plugged in;saving;critical;
+NotShowIn=GNOME;KDE;Unity;
+StartupNotify=true
+X-XfcePluggable=true
+X-XfceHelpComponent=xfce4-power-manager
+X-XfceHelpPage=start
+X-XFCE-Source=file:///usr/share/applications/xfce4-power-manager-settings.desktop
