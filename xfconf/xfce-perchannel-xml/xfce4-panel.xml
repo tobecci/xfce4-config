@@ -54,8 +54,14 @@
         <value type="int" value="26"/>
         <value type="int" value="27"/>
         <value type="int" value="28"/>
+        <value type="int" value="54"/>
+        <value type="int" value="52"/>
+        <value type="int" value="53"/>
+        <value type="int" value="55"/>
+        <value type="int" value="56"/>
         <value type="int" value="29"/>
         <value type="int" value="30"/>
+        <value type="int" value="51"/>
         <value type="int" value="31"/>
         <value type="int" value="32"/>
         <value type="int" value="34"/>
@@ -73,6 +79,9 @@
       <property name="position" type="string" value="p=8;x=96;y=1064"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="size" type="uint" value="30"/>
+      <property name="icon-size" type="uint" value="20"/>
+      <property name="leave-opacity" type="uint" value="70"/>
+      <property name="enter-opacity" type="uint" value="70"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -277,9 +286,16 @@
     <property name="plugin-50" type="string" value="xfce4-clipman-plugin"/>
     <property name="plugin-6" type="string" value="systray">
       <property name="hidden-items" type="array">
+        <value type="string" value="Garuda System Maintenance"/>
       </property>
-      <property name="icon-size" type="int" value="0"/>
+      <property name="icon-size" type="int" value="22"/>
       <property name="known-items" type="array">
+        <value type="string" value="Slack1"/>
+        <value type="string" value="Garuda System Maintenance"/>
+        <value type="string" value="droidcam"/>
+        <value type="string" value="corectrl"/>
+        <value type="string" value="heroic1"/>
+        <value type="string" value="redshift"/>
         <value type="string" value="vlc"/>
         <value type="string" value="Skype1"/>
         <value type="string" value="gpclient"/>
@@ -287,6 +303,18 @@
         <value type="string" value="blueman"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (77%)"/>
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (71%)"/>
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (84%)"/>
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (83%)"/>
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (78%)"/>
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (73%)"/>
+        <value type="string" value="user authentication required for wi-fi network “tobecci”…"/>
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (74%)"/>
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (70%)"/>
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (72%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (68%)"/>
+        <value type="string" value="jamesdsp"/>
         <value type="string" value="deluge"/>
         <value type="string" value="wi-fi network connection “69” active: 69 (96%)"/>
         <value type="string" value="wi-fi network connection “69” active: 69 (93%)"/>
@@ -330,12 +358,16 @@
         <value type="string" value="pamac-tray"/>
       </property>
       <property name="square-icons" type="bool" value="true"/>
+      <property name="symbolic-icons" type="bool" value="false"/>
+      <property name="hide-new-items" type="bool" value="false"/>
+      <property name="single-row" type="bool" value="true"/>
     </property>
     <property name="plugin-7" type="string" value="whiskermenu"/>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance1328;firefox.instance1335;firefox.instance1351;firefox.instance1381;firefox.instance1453;firefox.instance1482;firefox.instance1509;firefox.instance15461;firefox.instance1662;firefox.instance1892;firefox.instance1989;firefox.instance2130;firefox.instance2185;firefox.instance2222;firefox.instance2398;firefox.instance2749;firefox.instance3594;firefox.instance4480;firefox.instance5019;firefox.instance5116;firefox.instance54389;firefox.instance70322;firefox.instance9327;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance232040;firefox.instance1328;firefox.instance1335;firefox.instance1351;firefox.instance1381;firefox.instance1453;firefox.instance1482;firefox.instance1509;firefox.instance15461;firefox.instance1662;firefox.instance16938;firefox.instance18489;firefox.instance1892;firefox.instance1989;firefox.instance20433;firefox.instance2130;firefox.instance2185;firefox.instance2222;firefox.instance2398;firefox.instance2749;firefox.instance30460;firefox.instance3097;firefox.instance3424;firefox.instance3427;firefox.instance3429;firefox.instance3453;firefox.instance3481;firefox.instance3510;firefox.instance3594;firefox.instance3646;firefox.instance3668;firefox.instance4480;firefox.instance4500;firefox.instance5019;firefox.instance5116;firefox.instance54389;firefox.instance57262;firefox.instance70322;firefox.instance7636;firefox.instance9327;plasma-browser-integration;vlc"/>
       <property name="show-notifications" type="bool" value="true"/>
+      <property name="play-sound" type="bool" value="true"/>
     </property>
     <property name="plugin-9" type="string" value="pager">
       <property name="miniature-view" type="bool" value="false"/>
@@ -350,5 +382,31 @@
       <property name="expand" type="bool" value="false"/>
       <property name="style" type="uint" value="3"/>
     </property>
+    <property name="plugin-51" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16632212301.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-52" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16632212802.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-53" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16632213273.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-54" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16636070311.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-55" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16637765801.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-56" type="string" value="launcher"/>
   </property>
 </channel>

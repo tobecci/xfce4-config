@@ -43,7 +43,6 @@
       <property name="&lt;Alt&gt;F3" type="string" value="xfce4-appfinder">
         <property name="startup-notify" type="bool" value="true"/>
       </property>
-      <property name="Print" type="string" value="xfce4-screenshooter"/>
       <property name="&lt;Primary&gt;Escape" type="string" value="xfdesktop --menu"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Delete" type="string" value="xfce4-session-logout"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="string" value="thunar"/>
@@ -60,18 +59,20 @@
       <property name="&lt;Shift&gt;&lt;Super&gt;b" type="string" value="pavucontrol"/>
       <property name="&lt;Super&gt;b" type="string" value="blueman-manager"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;f" type="string" value="firefox"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;q" type="string" value="xfce4-session-logout -r"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;z" type="string" value="xfce4-session-logout -s"/>
       <property name="&lt;Super&gt;Tab" type="string" value="xfdesktop --windowlist"/>
       <property name="&lt;Super&gt;space" type="string" value="xfce4-popup-whiskermenu"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;s" type="string" value="xfce4-screenshooter -r"/>
       <property name="&lt;Super&gt;v" type="string" value="xfce4-clipman-history"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;n" type="string" value="redshift -O 3000"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;n" type="string" value="redshift -x"/>
-      <property name="&lt;Super&gt;t" type="string" value="alacritty"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;f" type="string" value="firefox --private-window"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;p" type="string" value="/home/tobecci/.scripts/start_picom"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;l" type="string" value="xfce4-session-logout --logout"/>
+      <property name="&lt;Super&gt;t" type="string" value="xfce4-terminal"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;p" type="string" value="/home/tobecci/.scripts/reload_xfce.sh"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;q" type="string" value="xfce4-session-logout --fast --reboot"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;l" type="string" value="xfce4-session-logout --fast --logout"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;z" type="string" value="xfce4-session-logout --fast --suspend"/>
+      <property name="Print" type="string" value="xfce4-screenshooter --delay 1 &amp;&amp; notify-send &quot;screenshot copied to clipboard&quot;"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;s" type="string" value="/home/tobecci/.scripts/screenshot_fullscreen.sh"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;s" type="string" value="/home/tobecci/.scripts/screenshot_region.sh"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
