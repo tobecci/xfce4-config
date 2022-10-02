@@ -6,12 +6,12 @@
     <property name="borderless_maximize" type="bool" value="false"/>
     <property name="box_move" type="bool" value="false"/>
     <property name="box_resize" type="bool" value="false"/>
-    <property name="button_layout" type="string" value="|HMC"/>
+    <property name="button_layout" type="string" value="CHM|"/>
     <property name="button_offset" type="int" value="0"/>
     <property name="button_spacing" type="int" value="0"/>
     <property name="click_to_focus" type="bool" value="true"/>
     <property name="cycle_apps_only" type="bool" value="false"/>
-    <property name="cycle_draw_frame" type="bool" value="true"/>
+    <property name="cycle_draw_frame" type="bool" value="false"/>
     <property name="cycle_hidden" type="bool" value="true"/>
     <property name="cycle_minimized" type="bool" value="true"/>
     <property name="cycle_minimum" type="bool" value="true"/>
@@ -58,10 +58,10 @@
     <property name="snap_to_border" type="bool" value="true"/>
     <property name="snap_to_windows" type="bool" value="false"/>
     <property name="snap_width" type="int" value="10"/>
-    <property name="theme" type="string" value="Qogir-dark"/>
+    <property name="theme" type="string" value="Mc-OS-CTLina-XFCE-Dark"/>
     <property name="tile_on_move" type="bool" value="false"/>
     <property name="title_alignment" type="string" value="center"/>
-    <property name="title_font" type="string" value="SF UI Text Semi-Bold 10"/>
+    <property name="title_font" type="string" value="Circular Std Medium, Medium 10"/>
     <property name="title_horizontal_offset" type="int" value="0"/>
     <property name="title_shadow_active" type="string" value="false"/>
     <property name="title_shadow_inactive" type="string" value="false"/>
