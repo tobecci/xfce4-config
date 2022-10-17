@@ -167,6 +167,33 @@
           <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-verticals.png"/>
         </property>
       </property>
+      <property name="monitorDP-0" type="empty">
+        <property name="workspace0" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/borboleta_neon_by_andreyhordine_dffcvcn.png"/>
+        </property>
+        <property name="workspace1" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/pexels_uzunov_rostislav_5011647_by_sumannaskar_dffdhj6.jpg"/>
+        </property>
+        <property name="workspace2" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/ardenweald_by_antoniobagia_dffchco.jpg"/>
+        </property>
+        <property name="workspace3" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/nexus___crowdsource___space_barge_by_hideyoshi_dbveuhg.jpg"/>
+        </property>
+        <property name="workspace4" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/the_old_jazz_bar_by_ewkn_dd57mhw.jpg"/>
+        </property>
+      </property>
     </property>
     <property name="single-workspace-mode" type="bool" value="false"/>
   </property>

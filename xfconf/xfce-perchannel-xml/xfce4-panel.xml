@@ -4,36 +4,81 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
-    <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
-      <property name="icon-size" type="uint" value="16"/>
+      <property name="position" type="string" value="p=6;x=960;y=14"/>
       <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="size" type="uint" value="27"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="7"/>
+        <value type="int" value="1"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
         <value type="int" value="5"/>
-        <value type="int" value="1"/>
-        <value type="int" value="50"/>
+        <value type="int" value="7"/>
+        <value type="int" value="4"/>
         <value type="int" value="6"/>
         <value type="int" value="8"/>
+        <value type="int" value="9"/>
         <value type="int" value="10"/>
-        <value type="int" value="4"/>
         <value type="int" value="11"/>
         <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
-        <value type="int" value="9"/>
       </property>
-      <property name="position" type="string" value="p=6;x=0;y=0"/>
-      <property name="position-locked" type="bool" value="true"/>
-      <property name="size" type="uint" value="30"/>
-      <property name="leave-opacity" type="uint" value="69"/>
-      <property name="enter-opacity" type="uint" value="69"/>
+      <property name="enter-opacity" type="uint" value="90"/>
+      <property name="leave-opacity" type="uint" value="90"/>
+      <property name="disable-struts" type="bool" value="false"/>
     </property>
   </property>
   <property name="plugins" type="empty">
-    <property name="plugin-1" type="string" value="netload"/>
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="0"/>
+      <property name="middle-click" type="uint" value="1"/>
+      <property name="sort-order" type="uint" value="1"/>
+      <property name="flat-buttons" type="bool" value="true"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="show-frame" type="bool" value="false"/>
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="names-ordered" type="array">
+        <value type="string" value="nextcloud"/>
+        <value type="string" value="redshift-gtk"/>
+        <value type="string" value="firewall-applet"/>
+        <value type="string" value="hp-systray"/>
+        <value type="string" value="onboard"/>
+        <value type="string" value="blueman-tray"/>
+        <value type="string" value="msm notifier for plasma5"/>
+        <value type="string" value="pamac-tray"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="networkmanager applet"/>
+      </property>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (79%)"/>
+        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (77%)"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="xfce terminal"/>
+        <value type="string" value="networkmanager applet"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="Garuda System Maintenance"/>
+        <value type="string" value="blueman"/>
+        <value type="string" value="redshift"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="firefox.instance1923;firefox.instance2983;firefox.instance4723;firefox.instance5930;vlc"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
     <property name="plugin-11" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
@@ -42,13 +87,15 @@
     <property name="plugin-13" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
+    <property name="plugin-1" type="string" value="whiskermenu"/>
     <property name="plugin-14" type="string" value="actions">
+      <property name="invert-orientation" type="bool" value="false"/>
       <property name="appearance" type="uint" value="0"/>
       <property name="items" type="array">
         <value type="string" value="-lock-screen"/>
         <value type="string" value="-switch-user"/>
         <value type="string" value="-separator"/>
-        <value type="string" value="+suspend"/>
+        <value type="string" value="-suspend"/>
         <value type="string" value="-hibernate"/>
         <value type="string" value="-hybrid-sleep"/>
         <value type="string" value="-separator"/>
@@ -59,112 +106,7 @@
         <value type="string" value="-logout-dialog"/>
       </property>
     </property>
-    <property name="plugin-2" type="string" value="tasklist">
-      <property name="grouping" type="uint" value="0"/>
-      <property name="middle-click" type="uint" value="1"/>
-      <property name="sort-order" type="uint" value="4"/>
-      <property name="window-scrolling" type="bool" value="false"/>
-      <property name="show-handle" type="bool" value="true"/>
-      <property name="flat-buttons" type="bool" value="false"/>
-      <property name="show-labels" type="bool" value="true"/>
-    </property>
-    <property name="plugin-3" type="string" value="separator">
-      <property name="expand" type="bool" value="true"/>
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-4" type="string" value="power-manager-plugin"/>
-    <property name="plugin-5" type="string" value="showdesktop"/>
-    <property name="plugin-50" type="string" value="xfce4-clipman-plugin"/>
-    <property name="plugin-6" type="string" value="systray">
-      <property name="hidden-items" type="array">
-        <value type="string" value="Garuda System Maintenance"/>
-      </property>
-      <property name="icon-size" type="int" value="22"/>
-      <property name="known-items" type="array">
-        <value type="string" value="Slack1"/>
-        <value type="string" value="Garuda System Maintenance"/>
-        <value type="string" value="droidcam"/>
-        <value type="string" value="corectrl"/>
-        <value type="string" value="heroic1"/>
-        <value type="string" value="redshift"/>
-        <value type="string" value="vlc"/>
-        <value type="string" value="Skype1"/>
-        <value type="string" value="gpclient"/>
-        <value type="string" value="MSM Notifier"/>
-        <value type="string" value="blueman"/>
-      </property>
-      <property name="known-legacy-items" type="array">
-        <value type="string" value="task manager"/>
-        <value type="string" value="ibus panel"/>
-        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (77%)"/>
-        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (71%)"/>
-        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (84%)"/>
-        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (83%)"/>
-        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (78%)"/>
-        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (73%)"/>
-        <value type="string" value="user authentication required for wi-fi network “tobecci”…"/>
-        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (74%)"/>
-        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (70%)"/>
-        <value type="string" value="wi-fi network connection “tobecci” active: tobecci (72%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (68%)"/>
-        <value type="string" value="jamesdsp"/>
-        <value type="string" value="deluge"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (96%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (93%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (95%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (99%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (98%)"/>
-        <value type="string" value="blueman"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (86%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (85%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (78%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (84%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (88%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (90%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (77%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (80%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (79%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (83%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (81%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (82%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (89%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (87%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (91%)"/>
-        <value type="string" value="clipit"/>
-        <value type="string" value="xfce4-power-manager"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (97%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (92%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (94%)"/>
-        <value type="string" value="anydesk"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (72%)"/>
-        <value type="string" value="bluetooth enabled"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (71%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (76%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (75%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (73%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (100%)"/>
-        <value type="string" value="wi-fi network connection “69” active: 69 (74%)"/>
-        <value type="string" value="thunar"/>
-        <value type="string" value="clipman"/>
-        <value type="string" value="networkmanager applet"/>
-        <value type="string" value="user authentication required for wi-fi network “sixtynine_problems”…"/>
-        <value type="string" value="pamac-tray"/>
-      </property>
-      <property name="square-icons" type="bool" value="true"/>
-      <property name="symbolic-icons" type="bool" value="false"/>
-      <property name="hide-new-items" type="bool" value="false"/>
-      <property name="single-row" type="bool" value="true"/>
-      <property name="hidden-legacy-items" type="array">
-        <value type="string" value="ibus panel"/>
-      </property>
-    </property>
-    <property name="plugin-7" type="string" value="whiskermenu"/>
-    <property name="plugin-8" type="string" value="pulseaudio">
-      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance232040;firefox.instance1328;firefox.instance1335;firefox.instance1351;firefox.instance1381;firefox.instance1453;firefox.instance1482;firefox.instance1509;firefox.instance15461;firefox.instance1572;firefox.instance1592;firefox.instance1662;firefox.instance1690;firefox.instance16938;firefox.instance18489;firefox.instance1892;firefox.instance1964;firefox.instance1989;firefox.instance20433;firefox.instance2130;firefox.instance215715;firefox.instance2185;firefox.instance2222;firefox.instance2398;firefox.instance2596;firefox.instance2749;firefox.instance30460;firefox.instance3097;firefox.instance3424;firefox.instance3427;firefox.instance3429;firefox.instance3453;firefox.instance3481;firefox.instance3510;firefox.instance3594;firefox.instance3646;firefox.instance3668;firefox.instance4480;firefox.instance4500;firefox.instance4803;firefox.instance5019;firefox.instance5116;firefox.instance54389;firefox.instance57262;firefox.instance5886;firefox.instance70322;firefox.instance7636;firefox.instance7952;firefox.instance8757;firefox.instance9327;plasma-browser-integration;vlc"/>
-      <property name="show-notifications" type="bool" value="true"/>
-      <property name="play-sound" type="bool" value="true"/>
-    </property>
-    <property name="plugin-9" type="string" value="windowmenu"/>
+    <property name="plugin-4" type="string" value="xfce4-clipman-plugin"/>
+    <property name="plugin-7" type="string" value="netload"/>
   </property>
 </channel>
