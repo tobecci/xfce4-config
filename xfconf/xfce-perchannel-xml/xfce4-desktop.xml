@@ -170,28 +170,33 @@
       <property name="monitorDP-0" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="5"/>
+          <property name="image-style" type="int" value="3"/>
           <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/borboleta_neon_by_andreyhordine_dffcvcn.png"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="5"/>
+          <property name="image-style" type="int" value="3"/>
           <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/pexels_uzunov_rostislav_5011647_by_sumannaskar_dffdhj6.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/ardenweald_by_antoniobagia_dffchco.jpg"/>
+          <property name="image-style" type="int" value="3"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/dffg2qz-346d9fac-f519-48b9-beed-6777a9f651c0.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/nexus___crowdsource___space_barge_by_hideyoshi_dbveuhg.jpg"/>
+          <property name="image-style" type="int" value="3"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/dfffhnw-4b1986bd-3225-4deb-b25b-3fcc21cd414c.png"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/the_old_jazz_bar_by_ewkn_dd57mhw.jpg"/>
+          <property name="image-style" type="int" value="3"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/dfed6ib-4f5d2e7b-7707-44f0-8bc1-158e85bdf261.jpg"/>
+        </property>
+        <property name="workspace5" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="3"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/ardenweald_by_antoniobagia_dffchco.jpg"/>
         </property>
       </property>
     </property>
@@ -199,6 +204,7 @@
   </property>
   <property name="desktop-icons" type="empty">
     <property name="style" type="int" value="0"/>
+    <property name="icon-size" type="uint" value="48"/>
   </property>
   <property name="desktop-menu" type="empty">
     <property name="show" type="bool" value="false"/>

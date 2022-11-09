@@ -4,9 +4,11 @@
   <property name="applications" type="empty">
     <property name="known_applications" type="array">
       <value type="string" value="blueman"/>
+      <value type="string" value="chromium"/>
       <value type="string" value="com.uploadedlobster.peek"/>
       <value type="string" value="Firefox"/>
       <value type="string" value="Garuda System Maintenance"/>
+      <value type="string" value="microsoft-edge"/>
       <value type="string" value="MSM Notifier"/>
       <value type="string" value="Network Management"/>
       <value type="string" value="nm-applet"/>

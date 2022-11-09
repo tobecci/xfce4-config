@@ -73,6 +73,8 @@
       <property name="Print" type="string" value="xfce4-screenshooter --delay 1 &amp;&amp; notify-send &quot;screenshot copied to clipboard&quot;"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;s" type="string" value="/home/tobecci/.scripts/screenshot_fullscreen.sh"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;s" type="string" value="/home/tobecci/.scripts/screenshot_region.sh"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;t" type="string" value="/home/tobecci/.scripts/reload_touchpad.sh"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;e" type="string" value="microsoft-edge-stable"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

@@ -24,7 +24,7 @@
     <property name="CanChangeAccels" type="bool" value="false"/>
     <property name="ColorPalette" type="empty"/>
     <property name="FontName" type="string" value="SF Compact Text Semi-Bold 10"/>
-    <property name="MonospaceFontName" type="string" value="SF Mono Semi-Bold 10"/>
+    <property name="MonospaceFontName" type="string" value="SF Mono Medium 9"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
     <property name="ToolbarStyle" type="empty"/>
@@ -32,8 +32,8 @@
     <property name="MenuImages" type="empty"/>
     <property name="ButtonImages" type="bool" value="true"/>
     <property name="MenuBarAccel" type="empty"/>
-    <property name="CursorThemeName" type="string" value="Adwaita"/>
-    <property name="CursorThemeSize" type="int" value="42"/>
+    <property name="CursorThemeName" type="string" value="capitaine-cursors"/>
+    <property name="CursorThemeSize" type="int" value="44"/>
     <property name="DecorationLayout" type="string" value="close,minimize,maximize:"/>
     <property name="DialogsUseHeader" type="empty"/>
     <property name="TitlebarMiddleClick" type="empty"/>
