@@ -5,11 +5,11 @@
   <property name="panels" type="array">
     <value type="int" value="1"/>
     <property name="panel-1" type="empty">
-      <property name="position" type="string" value="p=6;x=960;y=14"/>
+      <property name="position" type="string" value="p=6;x=960;y=19"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="0"/>
-      <property name="size" type="uint" value="27"/>
+      <property name="icon-size" type="uint" value="16"/>
+      <property name="size" type="uint" value="34"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
         <value type="int" value="2"/>
@@ -36,11 +36,12 @@
     <property name="plugin-2" type="string" value="tasklist">
       <property name="grouping" type="uint" value="1"/>
       <property name="middle-click" type="uint" value="1"/>
-      <property name="sort-order" type="uint" value="1"/>
+      <property name="sort-order" type="uint" value="4"/>
       <property name="flat-buttons" type="bool" value="true"/>
       <property name="show-wireframes" type="bool" value="true"/>
       <property name="window-scrolling" type="bool" value="false"/>
       <property name="include-all-workspaces" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="true"/>
     </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
@@ -65,6 +66,51 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (67%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (65%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (63%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (76%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (75%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (74%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (73%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (81%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (78%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (74%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (73%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (72%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (100%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (87%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (86%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (83%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (85%)"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (86%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (87%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (60%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (81%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (70%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (77%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (76%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (74%)"/>
+        <value type="string" value="gpick"/>
+        <value type="string" value="anydesk"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (82%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (89%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (78%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (76%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (96%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (88%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (93%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (94%)"/>
+        <value type="string" value="wi-fi network connection “69” active: 69 (86%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (79%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (85%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (84%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (83%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (82%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (73%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (72%)"/>
+        <value type="string" value="wi-fi network connection “certified mummy&apos;s boy” active: certified mummy&apos;s boy (80%)"/>
         <value type="string" value="wi-fi network connection “69” active: 69 (79%)"/>
         <value type="string" value="wi-fi network connection “tobecci” active: tobecci (81%)"/>
         <value type="string" value="wi-fi network connection “tobecci” active: tobecci (84%)"/>
@@ -87,14 +133,18 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance18709;firefox.instance1923;firefox.instance19974;firefox.instance2517;firefox.instance25452;firefox.instance2788;firefox.instance2868;firefox.instance2983;firefox.instance3433;firefox.instance3949;firefox.instance4118;firefox.instance4441;firefox.instance4723;firefox.instance5102;firefox.instance5295;firefox.instance5930;firefox.instance62650;firefox.instance6640;firefox.instance7148;firefox.instance7157;firefox.instance73182;firefox.instance86194;firefox.instance8772;firefox.instance9360;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance3912;firefox.instance10068;firefox.instance132659;firefox.instance164450;firefox.instance170499;firefox.instance18709;firefox.instance1923;firefox.instance19974;firefox.instance2517;firefox.instance2542;firefox.instance25452;firefox.instance26733;firefox.instance27614;firefox.instance2788;firefox.instance2868;firefox.instance2983;firefox.instance31591;firefox.instance3233;firefox.instance3433;firefox.instance3949;firefox.instance4118;firefox.instance4441;firefox.instance4723;firefox.instance5102;firefox.instance5295;firefox.instance5930;firefox.instance6209;firefox.instance62650;firefox.instance6640;firefox.instance7128;firefox.instance7148;firefox.instance7157;firefox.instance73182;firefox.instance86194;firefox.instance8772;firefox.instance9360;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
     <property name="plugin-11" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-12" type="string" value="clock"/>
+    <property name="plugin-12" type="string" value="clock">
+      <property name="digital-date-font" type="string" value="SF Compact Text Semi-Bold 8"/>
+      <property name="digital-layout" type="uint" value="3"/>
+      <property name="digital-time-font" type="string" value="SF Compact Text Semi-Bold 10"/>
+    </property>
     <property name="plugin-13" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>

@@ -28,6 +28,7 @@ MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=FALSE
 MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
 FontUseSystem=TRUE
-BackgroundDarkness=0.750000
+BackgroundDarkness=0.900000
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+FontAllowBold=FALSE
 

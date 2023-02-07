@@ -9,4 +9,5 @@ region=3
 show_mouse=1
 show_border=1
 show_in_folder=true
+custom_action_command=none
 

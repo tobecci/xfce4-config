@@ -11,7 +11,7 @@
     <property name="button_spacing" type="int" value="0"/>
     <property name="click_to_focus" type="bool" value="true"/>
     <property name="cycle_apps_only" type="bool" value="false"/>
-    <property name="cycle_draw_frame" type="bool" value="false"/>
+    <property name="cycle_draw_frame" type="bool" value="true"/>
     <property name="cycle_hidden" type="bool" value="true"/>
     <property name="cycle_minimized" type="bool" value="true"/>
     <property name="cycle_minimum" type="bool" value="true"/>
@@ -61,7 +61,7 @@
     <property name="theme" type="string" value="Mojave-dark"/>
     <property name="tile_on_move" type="bool" value="false"/>
     <property name="title_alignment" type="string" value="center"/>
-    <property name="title_font" type="string" value="SF Compact Text Semi-Bold 10"/>
+    <property name="title_font" type="string" value="SF Compact Text Medium 10"/>
     <property name="title_horizontal_offset" type="int" value="0"/>
     <property name="title_shadow_active" type="string" value="false"/>
     <property name="title_shadow_inactive" type="string" value="false"/>
@@ -75,12 +75,12 @@
     <property name="use_compositing" type="bool" value="true"/>
     <property name="workspace_count" type="int" value="6"/>
     <property name="workspace_names" type="array">
-      <value type="string" value="Tobecci"/>
-      <value type="string" value="Herlabytes"/>
-      <value type="string" value="VamSystems"/>
-      <value type="string" value="Xnova"/>
-      <value type="string" value="Plug"/>
-      <value type="string" value="tmp"/>
+      <value type="string" value="1. Tobecci"/>
+      <value type="string" value="2. Herlabytes"/>
+      <value type="string" value="3. VamSystems"/>
+      <value type="string" value="4. Xnova"/>
+      <value type="string" value="5. Plug"/>
+      <value type="string" value="6. tmp"/>
       <value type="string" value="Play"/>
     </property>
     <property name="wrap_cycle" type="bool" value="false"/>
