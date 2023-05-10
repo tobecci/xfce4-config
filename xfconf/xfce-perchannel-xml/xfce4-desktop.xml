@@ -170,37 +170,58 @@
       <property name="monitorDP-0" type="empty">
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="3"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/borboleta_neon_by_andreyhordine_dffcvcn.png"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/7.jpeg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="3"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/pexels_uzunov_rostislav_5011647_by_sumannaskar_dffdhj6.jpg"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/fantasy_deer_photo_manipulation_by_pixpedia_dfeifyg.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="3"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/dffg2qz-346d9fac-f519-48b9-beed-6777a9f651c0.jpg"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/etemmu_by_fiachmara_dfngwyh.png"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="3"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/dfffhnw-4b1986bd-3225-4deb-b25b-3fcc21cd414c.png"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/the_john_blake_chronicles___book_cover_by_hideyoshi_dbqjm6u.jpg"/>
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="3"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/dfed6ib-4f5d2e7b-7707-44f0-8bc1-158e85bdf261.jpg"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/nowhere_to_run_by_lorddarkdiablo10_dfq3hpb.jpg"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="3"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/ardenweald_by_antoniobagia_dffchco.jpg"/>
+          <property name="image-style" type="int" value="4"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/seldon_crisis__station_by_adamburn_d7h58y7.jpg"/>
+        </property>
+        <property name="workspace6" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/purple_witch.jpg"/>
+        </property>
+        <property name="workspace7" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-shapes.svg"/>
+        </property>
+        <property name="workspace8" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-shapes.svg"/>
+        </property>
+        <property name="workspace9" type="empty">
+          <property name="color-style" type="int" value="0"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-shapes.svg"/>
         </property>
       </property>
     </property>
-    <property name="single-workspace-mode" type="bool" value="false"/>
+    <property name="single-workspace-mode" type="bool" value="true"/>
+    <property name="single-workspace-number" type="int" value="0"/>
   </property>
   <property name="desktop-icons" type="empty">
     <property name="style" type="int" value="0"/>

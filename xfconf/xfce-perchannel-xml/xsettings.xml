@@ -3,7 +3,7 @@
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
     <property name="ThemeName" type="string" value="Mojave-dark"/>
-    <property name="IconThemeName" type="string" value="ePapirus-Dark"/>
+    <property name="IconThemeName" type="string" value="Uos-fulldistro-icons-Dark"/>
     <property name="DoubleClickTime" type="empty"/>
     <property name="DoubleClickDistance" type="empty"/>
     <property name="DndDragThreshold" type="empty"/>
@@ -23,9 +23,8 @@
   <property name="Gtk" type="empty">
     <property name="CanChangeAccels" type="bool" value="false"/>
     <property name="ColorPalette" type="empty"/>
-    <property name="DialogsUseHeader" type="empty"/>
-    <property name="FontName" type="string" value="SF Compact Text Medium 10"/>
-    <property name="MonospaceFontName" type="string" value="SF Mono Medium 10"/>
+    <property name="FontName" type="string" value="SF Compact Text 9"/>
+    <property name="MonospaceFontName" type="string" value="SF Mono 8"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
     <property name="ToolbarStyle" type="empty"/>
@@ -36,6 +35,7 @@
     <property name="CursorThemeName" type="string" value="capitaine-cursors"/>
     <property name="CursorThemeSize" type="int" value="44"/>
     <property name="DecorationLayout" type="string" value="close,minimize,maximize:"/>
+    <property name="DialogsUseHeader" type="empty"/>
     <property name="TitlebarMiddleClick" type="empty"/>
   </property>
   <property name="Gdk" type="empty">
@@ -43,5 +43,6 @@
   </property>
   <property name="Xfce" type="empty">
     <property name="LastCustomDPI" type="int" value="96"/>
+    <property name="SyncThemes" type="bool" value="false"/>
   </property>
 </channel>
