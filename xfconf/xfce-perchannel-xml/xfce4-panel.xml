@@ -5,10 +5,10 @@
   <property name="panels" type="array">
     <value type="int" value="1"/>
     <property name="panel-1" type="empty">
-      <property name="position" type="string" value="p=6;x=960;y=19"/>
+      <property name="position" type="string" value="p=6;x=960;y=16"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="16"/>
+      <property name="icon-size" type="uint" value="18"/>
       <property name="size" type="uint" value="30"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
@@ -30,8 +30,8 @@
         <value type="int" value="13"/>
         <value type="int" value="14"/>
       </property>
-      <property name="enter-opacity" type="uint" value="60"/>
-      <property name="leave-opacity" type="uint" value="60"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
       <property name="enable-struts" type="bool" value="true"/>
     </property>
   </property>
@@ -164,12 +164,12 @@
       <property name="hidden-items" type="array">
         <value type="string" value="Garuda System Maintenance"/>
       </property>
-      <property name="icon-size" type="int" value="16"/>
+      <property name="icon-size" type="int" value="18"/>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance104346;chromium.instance15126;chromium.instance169832;chromium.instance195265;chromium.instance263874;chromium.instance3490;chromium.instance3559;chromium.instance37199;chromium.instance3912;chromium.instance4120;chromium.instance43645;chromium.instance4810;chromium.instance50056;chromium.instance5703;chromium.instance6708;chromium.instance744949;chromium.instance7539;chromium.instance82607;firefox.instance10068;firefox.instance101114;firefox.instance132659;firefox.instance1538380;firefox.instance161070;firefox.instance161844;firefox.instance16403;firefox.instance164450;firefox.instance170499;firefox.instance183279;firefox.instance18709;firefox.instance1923;firefox.instance19974;firefox.instance2517;firefox.instance2542;firefox.instance25452;firefox.instance26733;firefox.instance27614;firefox.instance2788;firefox.instance2868;firefox.instance2983;firefox.instance30023;firefox.instance31591;firefox.instance3233;firefox.instance3403;firefox.instance3433;firefox.instance3841;firefox.instance3949;firefox.instance4060;firefox.instance4118;firefox.instance4169;firefox.instance4223;firefox.instance4361;firefox.instance4441;firefox.instance4723;firefox.instance5102;firefox.instance5295;firefox.instance5930;firefox.instance6209;firefox.instance62650;firefox.instance6640;firefox.instance682271;firefox.instance7128;firefox.instance7148;firefox.instance7157;firefox.instance73182;firefox.instance742056;firefox.instance771042;firefox.instance81924;firefox.instance86194;firefox.instance8772;firefox.instance9360;io.github.celluloid_player.Celluloid.instance-1;spotube;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance104346;chromium.instance15126;chromium.instance169832;chromium.instance195265;chromium.instance263874;chromium.instance3490;chromium.instance3559;chromium.instance37199;chromium.instance3912;chromium.instance4120;chromium.instance43645;chromium.instance4810;chromium.instance50056;chromium.instance5703;chromium.instance6708;chromium.instance744949;chromium.instance7539;chromium.instance82607;firefox.instance10068;firefox.instance101114;firefox.instance132659;firefox.instance1538380;firefox.instance161070;firefox.instance161844;firefox.instance16403;firefox.instance164450;firefox.instance170499;firefox.instance183279;firefox.instance18709;firefox.instance1923;firefox.instance19974;firefox.instance2517;firefox.instance2542;firefox.instance25452;firefox.instance26733;firefox.instance27614;firefox.instance2788;firefox.instance2868;firefox.instance2983;firefox.instance30023;firefox.instance31591;firefox.instance3233;firefox.instance3403;firefox.instance3433;firefox.instance3841;firefox.instance3949;firefox.instance4060;firefox.instance4118;firefox.instance4169;firefox.instance4223;firefox.instance4361;firefox.instance4441;firefox.instance4723;firefox.instance5102;firefox.instance5295;firefox.instance5930;firefox.instance6209;firefox.instance62650;firefox.instance6640;firefox.instance682271;firefox.instance70292;firefox.instance7128;firefox.instance7148;firefox.instance7157;firefox.instance73182;firefox.instance742056;firefox.instance771042;firefox.instance81924;firefox.instance86194;firefox.instance8772;firefox.instance9360;io.github.celluloid_player.Celluloid.instance-1;spotube;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -179,7 +179,7 @@
     <property name="plugin-12" type="string" value="clock">
       <property name="digital-date-font" type="string" value="SF Compact Text Semi-Bold 8"/>
       <property name="digital-layout" type="uint" value="3"/>
-      <property name="digital-time-font" type="string" value="SF Compact Text 9"/>
+      <property name="digital-time-font" type="string" value="SF Compact Text 11"/>
     </property>
     <property name="plugin-13" type="string" value="separator">
       <property name="style" type="uint" value="0"/>

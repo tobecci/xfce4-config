@@ -1,5 +1,5 @@
-favorites=xfce4-file-manager.desktop,chromium.desktop,firefox.desktop,raoatech-firefox_raoatech.desktop,herlabytes-firefox-herlabytes.desktop,xnova-firefox_xnova.desktop,plug-firefox-plug.desktop,FirefoxSessions-session1.desktop,FirefoxSessions-session2.desktop,insomnia.desktop,postman.desktop,tobecci-firefox-whatsapp.desktop,tobecci-firefox-twitter.desktop,tobecci-firefox-gmail.desktop,appimagekit_4c620068e64a45023fb70a6cbd8bb447-Notion_Enhanced.desktop,tobecci-firefox-notion.desktop,tobecci-firefox-keep.desktop,tobecci-firefox-spotify.desktop,tobecci-firefox-linkedin.desktop,herlabytes-FIrefoxConfluence.desktop,herlabytes-slack-herlabytes.desktop,herlabytes-firefox-trium.desktop,herlabytes-firefox-zohomail.desktop,net.lutris.Lutris.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,panel-preferences.desktop,xfce-backdrop-settings.desktop,org.xfce.mousepad.desktop,octopi.desktop,xfce-keyboard-settings.desktop,xfce4-power-manager-settings.desktop
-recent=xfce-wmtweaks-settings.desktop,xfce-wm-settings.desktop,panel-preferences.desktop,xfce-ui-settings.desktop,xfce-session-settings.desktop,org.xfce.mousepad.desktop,opera.desktop,octopi.desktop,net.lutris.Lutris.desktop,tobecci-firefox-whatsapp.desktop
+favorites=xfce4-file-manager.desktop,chromium.desktop,firefox.desktop,raoatech-firefox_raoatech.desktop,herlabytes-firefox-herlabytes.desktop,xnova-firefox_xnova.desktop,plug-firefox-plug.desktop,FirefoxSessions-session1.desktop,FirefoxSessions-session2.desktop,insomnia.desktop,postman.desktop,tobecci-firefox-whatsapp.desktop,tobecci-firefox-twitter.desktop,tobecci-firefox-gmail.desktop,appimagekit_4c620068e64a45023fb70a6cbd8bb447-Notion_Enhanced.desktop,tobecci-firefox-notion.desktop,tobecci-firefox-keep.desktop,tobecci-firefox-spotify.desktop,tobecci-youtube-music.desktop,tobecci-firefox-linkedin.desktop,herlabytes-FIrefoxConfluence.desktop,herlabytes-slack-herlabytes.desktop,herlabytes-firefox-trium.desktop,herlabytes-firefox-zohomail.desktop,net.lutris.Lutris.desktop,xfce-ui-settings.desktop,xfce-wm-settings.desktop,xfce-wmtweaks-settings.desktop,panel-preferences.desktop,xfce-backdrop-settings.desktop,org.xfce.mousepad.desktop,octopi.desktop,xfce-keyboard-settings.desktop,xfce4-power-manager-settings.desktop
+recent=xfce4-power-manager-settings.desktop,xfce-keyboard-settings.desktop,tobecci-youtube-music.desktop,xfce-backdrop-settings.desktop,tobecci-firefox-whatsapp.desktop,panel-preferences.desktop,xfce-ui-settings.desktop,insomnia.desktop,xfce-wm-settings.desktop,org.telegram.desktop.desktop
 button-icon=draw-circle
 button-single-row=false
 show-button-title=false
@@ -7,7 +7,7 @@ show-button-icon=true
 launcher-show-name=true
 launcher-show-description=false
 launcher-show-tooltip=true
-launcher-icon-size=0
+launcher-icon-size=1
 hover-switch-category=false
 category-show-name=true
 category-icon-size=0

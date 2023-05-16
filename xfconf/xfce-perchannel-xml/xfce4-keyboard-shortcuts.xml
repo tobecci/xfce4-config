@@ -77,6 +77,8 @@
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;z" type="string" value="xfce4-session-logout --fast --suspend"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;q" type="string" value="xfce4-session-logout --fast --reboot"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;l" type="string" value="xfce4-session-logout --fast --logout"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;i" type="string" value="/home/tobecci/.scripts/xfce-toggle-presentation-mode.sh"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;g" type="string" value="/home/tobecci/.scripts/xfce-turn-on-gamemode.sh"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
