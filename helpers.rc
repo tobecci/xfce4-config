@@ -1,4 +1,4 @@
 TerminalEmulator=xfce4-terminal
 MailReader=geary
+WebBrowser=firefox
 
-WebBrowser=chromium
