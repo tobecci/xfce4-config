@@ -41,6 +41,9 @@
   <property name="log-max-size-enabled" type="bool" value="true"/>
   <property name="date-time-format" type="int" value="0"/>
   <property name="date-time-custom-format" type="string" value="%a %H:%M:%S"/>
-  <property name="initial-opacity" type="double" value="1"/>
+  <property name="initial-opacity" type="double" value="0.80000000000000004"/>
   <property name="show-text-with-gauge" type="bool" value="true"/>
+  <property name="log-max-size" type="uint" value="10"/>
+  <property name="notification-display-fields" type="string" value="icon-summary"/>
+  <property name="theme" type="string" value="Mc-OS-CTLina-XFCE-Dark"/>
 </channel>
