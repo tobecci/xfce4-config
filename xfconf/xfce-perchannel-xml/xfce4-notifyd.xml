@@ -25,6 +25,7 @@
       <value type="string" value="test"/>
       <value type="string" value="thunar"/>
       <value type="string" value="thunar-volman"/>
+      <value type="string" value="tor-browser"/>
       <value type="string" value="Xfce volume control"/>
       <value type="string" value="Xfce4-notifyd settings"/>
       <value type="string" value="xfce4-power-manager"/>
