@@ -67,7 +67,7 @@ col=13
 
 [/home/tobecci/Desktop/youtube-music.desktop]
 row=5
-col=1
+col=2
 
 [/home/tobecci/Desktop/bitwarden.desktop]
 row=7
@@ -98,7 +98,7 @@ row=2
 col=15
 
 [/home/tobecci/Desktop/firefox-gmail.desktop]
-row=5
+row=3
 col=2
 
 [/home/tobecci/Desktop/xfce4-terminal.desktop]
@@ -106,8 +106,8 @@ row=1
 col=2
 
 [/home/tobecci/Desktop/org.telegram.desktop.desktop]
-row=3
-col=2
+row=5
+col=1
 
 [/home/tobecci/Desktop/chromium.desktop]
 row=0
