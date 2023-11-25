@@ -16,7 +16,7 @@
     </property>
   </property>
   <property name="lock" type="empty">
-    <property name="enabled" type="bool" value="true"/>
+    <property name="enabled" type="bool" value="false"/>
     <property name="saver-activation" type="empty">
       <property name="enabled" type="bool" value="false"/>
     </property>

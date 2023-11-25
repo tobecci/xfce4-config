@@ -11,34 +11,26 @@ col=1
 
 [/home/tobecci/Desktop/dev]
 row=0
-col=11
+col=13
 
 [/home/tobecci/Desktop/raoatech]
 row=0
-col=12
-
-[/home/tobecci/Desktop/firefox-gradstudy.desktop]
-row=2
-col=4
+col=14
 
 [/home/tobecci/Desktop/net.lutris.cyberpunk2077-11.desktop]
 row=1
-col=9
+col=11
 
-[/home/tobecci/Desktop/github.desktop]
-row=0
-col=3
-
-[/home/tobecci/Desktop/xfce4-taskmanager.desktop]
-row=3
-col=5
+[/home/tobecci/Desktop/panel-preferences.desktop]
+row=5
+col=0
 
 [/home/tobecci/Desktop/xfce-ui-settings.desktop]
 row=6
 col=0
 
 [/home/tobecci/Desktop/virt-manager.desktop]
-row=6
+row=7
 col=2
 
 [/home/tobecci/Desktop/postman.desktop]
@@ -46,12 +38,12 @@ row=0
 col=5
 
 [/home/tobecci/Desktop/org.telegram.desktop.desktop]
-row=4
-col=3
+row=5
+col=2
 
 [/home/tobecci/Desktop/lk-backend]
 row=1
-col=12
+col=14
 
 [/home/tobecci/Desktop/net.lutris.Lutris.desktop]
 row=0
@@ -62,56 +54,32 @@ row=4
 col=0
 
 [/home/tobecci/Desktop/firefox-notion.desktop]
-row=3
-col=4
+row=6
+col=2
 
-[/home/tobecci/Desktop/firefox-plug.desktop]
-row=1
-col=5
+[/home/tobecci/Desktop/xfce-backdrop-settings.desktop]
+row=6
+col=1
 
 [/home/tobecci/Desktop/downloaded_images]
 row=2
-col=13
-
-[/home/tobecci/Desktop/xfce-backdrop-settings.desktop]
-row=5
-col=0
+col=15
 
 [/home/tobecci/Desktop/Resumes]
 row=3
-col=11
+col=13
 
 [/home/tobecci/Desktop/Downloads]
 row=3
 col=0
 
-[/home/tobecci/Desktop/firefox_raoatech.desktop]
-row=1
-col=4
-
-[/home/tobecci/Desktop/firefox-linkedin.desktop]
-row=3
-col=3
-
-[/home/tobecci/Desktop/net.lutris.assasinscreedodyssey-1.desktop]
-row=0
-col=9
-
-[/home/tobecci/Desktop/figma.desktop]
-row=1
-col=3
-
 [/home/tobecci/Desktop/xfce-wm-settings.desktop]
-row=5
-col=1
-
-[/home/tobecci/Desktop/session1.desktop]
-row=2
-col=5
+row=7
+col=0
 
 [/home/tobecci/Desktop/src]
 row=1
-col=13
+col=15
 
 [/home/tobecci/Desktop/code.desktop]
 row=0
@@ -142,80 +110,60 @@ row=1
 col=1
 
 [/home/tobecci/Desktop/bitwarden.desktop]
-row=4
-col=4
+row=5
+col=1
 
 [/home/tobecci/Desktop/gradstudy-admin]
 row=0
-col=13
-
-[/home/tobecci/Desktop/nm-connection-editor.desktop]
-row=6
-col=3
+col=15
 
 [/home/tobecci/Desktop/fintechceosforum]
 row=2
-col=12
+col=14
 
 [/home/tobecci/Desktop/playground]
 row=2
-col=11
+col=13
 
 [/home/tobecci/Desktop/xfce-wmtweaks-settings.desktop]
-row=5
-col=2
+row=7
+col=1
+
+[/home/tobecci/Desktop/PES2017.exe]
+row=1
+col=12
 
 [/home/tobecci/Desktop/firefox-gmail.desktop]
 row=3
 col=2
 
 [/home/tobecci/Desktop/firefox.desktop]
-row=2
+row=0
 col=3
 
 [/home/tobecci/Desktop/net.lutris.mortalkombatx-9.desktop]
 row=0
-col=10
+col=12
 
 [/home/tobecci/Desktop/chromium.desktop]
 row=0
 col=2
 
-[/home/tobecci/Desktop/panel-preferences.desktop]
-row=6
-col=1
+[/home/tobecci/Desktop/net.lutris.injustice-12.desktop]
+row=2
+col=11
 
 [/home/tobecci/Desktop/DockerApps]
 row=1
-col=11
+col=13
 
 [/home/tobecci/Desktop/xfce4-terminal.desktop]
 row=1
 col=2
 
-[/home/tobecci/Desktop/net.lutris.injustice-12.desktop]
-row=2
-col=9
-
-[/home/tobecci/Desktop/session2.desktop]
-row=2
-col=6
-
-[/home/tobecci/Desktop/firefox_xnova.desktop]
-row=1
-col=6
-
-[d98d56ca-3e4d-42aa-a0a1-be0602604976]
-row=5
-col=3
-
-[SAMSUNG Android]
-row=5
-col=4
-
-[Trash]
-row=6
-col=13
+[/home/tobecci/Desktop/net.lutris.assasinscreedodyssey-1.desktop]
+row=0
+col=11
 
 [/]
 row=0

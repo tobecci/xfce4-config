@@ -176,12 +176,12 @@
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="3"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/lucas-kapla-wQLAGv4_OYs-unsplash.jpg"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/pexels_uzunov_rostislav_5011647_by_sumannaskar_dffdhj6.jpg"/>
         </property>
         <property name="workspace2" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/120_-_KnFPX73.jpg"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/arrival_by_bisbiswas_dej4ydc.jpg"/>
         </property>
         <property name="workspace3" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -190,18 +190,18 @@
         </property>
         <property name="workspace4" type="empty">
           <property name="color-style" type="int" value="0"/>
-          <property name="image-style" type="int" value="3"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/nowhere_to_run_by_lorddarkdiablo10_dfq3hpb.jpg"/>
+          <property name="image-style" type="int" value="5"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/tokyo_melancholy_by_neonoverdrive_dfv2jum.png"/>
         </property>
         <property name="workspace5" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="4"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/seldon_crisis__station_by_adamburn_d7h58y7.jpg"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/fantasy_deer_photo_manipulation_by_pixpedia_dfeifyg.jpg"/>
         </property>
         <property name="workspace6" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/purple_witch.jpg"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/lucas-kapla-wQLAGv4_OYs-unsplash.jpg"/>
         </property>
         <property name="workspace7" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -224,14 +224,18 @@
     <property name="single-workspace-number" type="int" value="0"/>
   </property>
   <property name="desktop-icons" type="empty">
-    <property name="style" type="int" value="2"/>
-    <property name="icon-size" type="uint" value="54"/>
+    <property name="style" type="int" value="0"/>
+    <property name="icon-size" type="uint" value="60"/>
+    <property name="tooltip-size" type="double" value="56"/>
+    <property name="use-custom-font-size" type="bool" value="false"/>
+    <property name="font-size" type="double" value="10"/>
+    <property name="show-hidden-files" type="bool" value="false"/>
   </property>
   <property name="desktop-menu" type="empty">
     <property name="show" type="bool" value="false"/>
   </property>
   <property name="last" type="empty">
-    <property name="window-height" type="int" value="656"/>
+    <property name="window-height" type="int" value="640"/>
     <property name="window-width" type="int" value="1032"/>
   </property>
   <property name="windowlist-menu" type="empty">

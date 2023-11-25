@@ -103,7 +103,7 @@ col=3
 
 [/home/tobecci/Desktop/xfce-wm-settings.desktop]
 row=5
-col=1
+col=2
 
 [/home/tobecci/Desktop/session1.desktop]
 row=2
@@ -163,7 +163,7 @@ col=11
 
 [/home/tobecci/Desktop/xfce-wmtweaks-settings.desktop]
 row=5
-col=2
+col=1
 
 [/home/tobecci/Desktop/firefox-gmail.desktop]
 row=3
@@ -204,18 +204,6 @@ col=6
 [/home/tobecci/Desktop/firefox_xnova.desktop]
 row=1
 col=6
-
-[d98d56ca-3e4d-42aa-a0a1-be0602604976]
-row=5
-col=3
-
-[SAMSUNG Android]
-row=5
-col=4
-
-[Trash]
-row=6
-col=13
 
 [/]
 row=0

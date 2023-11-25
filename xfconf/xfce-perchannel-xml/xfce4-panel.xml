@@ -4,35 +4,53 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
+    <value type="int" value="2"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=6;x=960;y=16"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="20"/>
-      <property name="size" type="uint" value="40"/>
+      <property name="icon-size" type="uint" value="16"/>
+      <property name="size" type="uint" value="35"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
-        <value type="int" value="16"/>
         <value type="int" value="17"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
         <value type="int" value="5"/>
         <value type="int" value="7"/>
-        <value type="int" value="4"/>
         <value type="int" value="6"/>
         <value type="int" value="8"/>
         <value type="int" value="18"/>
+        <value type="int" value="40"/>
         <value type="int" value="9"/>
         <value type="int" value="10"/>
-        <value type="int" value="15"/>
         <value type="int" value="11"/>
         <value type="int" value="12"/>
         <value type="int" value="13"/>
-        <value type="int" value="14"/>
+        <value type="int" value="15"/>
       </property>
-      <property name="enter-opacity" type="uint" value="100"/>
-      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="enter-opacity" type="uint" value="80"/>
+      <property name="leave-opacity" type="uint" value="80"/>
       <property name="enable-struts" type="bool" value="true"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.16470588235294117"/>
+        <value type="double" value="0.16470588235294117"/>
+        <value type="double" value="0.16470588235294117"/>
+        <value type="double" value="0.84999999999999998"/>
+      </property>
+    </property>
+    <property name="panel-2" type="empty">
+      <property name="position" type="string" value="p=8;x=98;y=1055"/>
+      <property name="size" type="uint" value="35"/>
+      <property name="length" type="double" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="14"/>
+        <value type="int" value="16"/>
+        <value type="int" value="4"/>
+      </property>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -40,13 +58,15 @@
       <property name="grouping" type="bool" value="false"/>
       <property name="middle-click" type="uint" value="1"/>
       <property name="sort-order" type="uint" value="4"/>
-      <property name="flat-buttons" type="bool" value="true"/>
+      <property name="flat-buttons" type="bool" value="false"/>
       <property name="show-wireframes" type="bool" value="false"/>
       <property name="window-scrolling" type="bool" value="false"/>
       <property name="include-all-workspaces" type="bool" value="false"/>
       <property name="show-labels" type="bool" value="true"/>
       <property name="show-handle" type="bool" value="false"/>
-      <property name="show-tooltips" type="bool" value="false"/>
+      <property name="show-tooltips" type="bool" value="true"/>
+      <property name="include-all-monitors" type="bool" value="false"/>
+      <property name="show-only-minimized" type="bool" value="false"/>
     </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
@@ -71,6 +91,42 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “bileygrmifi” active: bileygrmifi (83%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmifi” active: bileygrmifi (80%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmifi” active: bileygrmifi (81%)"/>
+        <value type="string" value="garuda system maintenance"/>
+        <value type="string" value="wi-fi network connection “bileygrmifi” active: bileygrmifi (71%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (86%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (56%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (73%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (74%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (92%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (88%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (75%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (83%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (84%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (80%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (79%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (69%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (70%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (82%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (81%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (85%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (77%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (76%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (72%)"/>
+        <value type="string" value="wi-fi network connection “bileygrmobile” active: bileygrmobile (78%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (55%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (66%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (80%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (76%)"/>
+        <value type="string" value="wi-fi network connection “mywifihasbigboobs” active: mywifihasbigboobs (81%)"/>
+        <value type="string" value="wi-fi network connection “mywifihasbigboobs” active: mywifihasbigboobs (78%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (78%)"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (79%)"/>
+        <value type="string" value="ethernet network connection “wired connection 2” active"/>
+        <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (85%)"/>
+        <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (68%)"/>
         <value type="string" value="wi-fi network connection “i am cheating on my wifi” active: i am cheating on my wifi (96%)"/>
         <value type="string" value="clipit"/>
         <value type="string" value="wi-fi network connection “i&apos;m cheating on my wifi” active: i&apos;m cheating on my wifi (58%)"/>
@@ -159,6 +215,7 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="obs"/>
         <value type="string" value="flameshot"/>
         <value type="string" value="Garuda System Maintenance"/>
         <value type="string" value="blueman"/>
@@ -167,13 +224,14 @@
       <property name="hidden-items" type="array">
         <value type="string" value="Garuda System Maintenance"/>
       </property>
-      <property name="icon-size" type="int" value="27"/>
+      <property name="icon-size" type="int" value="22"/>
+      <property name="hide-new-items" type="bool" value="false"/>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
       <property name="mpris-players" type="string" value="chromium.instance104346;chromium.instance15126;chromium.instance169832;chromium.instance195265;chromium.instance263874;chromium.instance3490;chromium.instance3559;chromium.instance37199;chromium.instance3912;chromium.instance4120;chromium.instance43645;chromium.instance4810;chromium.instance50056;chromium.instance53189;chromium.instance5703;chromium.instance6708;chromium.instance744949;chromium.instance7539;chromium.instance82607;edge.instance174332;edge.instance3677;firefox.instance10068;firefox.instance101114;firefox.instance132659;firefox.instance14269;firefox.instance1538380;firefox.instance15948;firefox.instance161070;firefox.instance161844;firefox.instance16403;firefox.instance164450;firefox.instance170499;firefox.instance183279;firefox.instance18709;firefox.instance1923;firefox.instance19455;firefox.instance19974;firefox.instance2517;firefox.instance2542;firefox.instance25452;firefox.instance26733;firefox.instance27614;firefox.instance2788;firefox.instance2868;firefox.instance28745;firefox.instance2983;firefox.instance30023;firefox.instance31591;firefox.instance3233;firefox.instance3403;firefox.instance3433;firefox.instance3841;firefox.instance3949;firefox.instance4060;firefox.instance4118;firefox.instance4169;firefox.instance4223;firefox.instance4361;firefox.instance4441;firefox.instance4723;firefox.instance5102;firefox.instance5295;firefox.instance537882;firefox.instance5930;firefox.instance5999;firefox.instance6209;firefox.instance62650;firefox.instance6640;firefox.instance682271;firefox.instance70292;firefox.instance7128;firefox.instance7148;firefox.instance7157;firefox.instance73182;firefox.instance742056;firefox.instance771042;firefox.instance81924;firefox.instance86194;firefox.instance8772;firefox.instance9267;firefox.instance9360;firefox.instance9680;io.github.celluloid_player.Celluloid.instance-1;spotube;vlc"/>
-      <property name="known-players" type="string" value="Chromium"/>
+      <property name="known-players" type="string" value="Chromium;Code;firefox;Firefox;Firefox Web Browser;io.github.celluloid_player.Celluloid;vlc;VLC media player"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -183,19 +241,53 @@
     <property name="plugin-12" type="string" value="clock">
       <property name="digital-date-font" type="string" value="SF Compact Text Semi-Bold 8"/>
       <property name="digital-layout" type="uint" value="3"/>
-      <property name="digital-time-font" type="string" value="SF Compact Text 11"/>
+      <property name="digital-time-font" type="string" value="SF Compact Text 10"/>
     </property>
     <property name="plugin-13" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-1" type="string" value="whiskermenu"/>
+    <property name="plugin-1" type="string" value="whiskermenu">
+      <property name="button-icon" type="string" value="draw-circle"/>
+      <property name="launcher-show-description" type="bool" value="false"/>
+      <property name="launcher-icon-size" type="int" value="3"/>
+      <property name="view-mode" type="int" value="0"/>
+      <property name="favorites-in-recent" type="bool" value="true"/>
+      <property name="position-categories-alternate" type="bool" value="true"/>
+      <property name="position-categories-horizontal" type="bool" value="true"/>
+      <property name="menu-width" type="int" value="782"/>
+      <property name="menu-height" type="int" value="493"/>
+      <property name="command-switchuser" type="string" value="dm-tool switch-to-greeter"/>
+      <property name="favorites" type="array">
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="xfce4-file-manager.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+        <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="xfce-wmtweaks-settings.desktop"/>
+        <value type="string" value="xfce-ui-settings.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="pavucontrol.desktop"/>
+        <value type="string" value="insomnia.desktop"/>
+        <value type="string" value="net.lutris.Lutris.desktop"/>
+        <value type="string" value="octopi.desktop"/>
+        <value type="string" value="bitwarden.desktop"/>
+        <value type="string" value="vlc.desktop"/>
+      </property>
+      <property name="recent" type="array">
+        <value type="string" value="xfce-backdrop-settings.desktop"/>
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="xfce-keyboard-settings.desktop"/>
+        <value type="string" value="qt5ct.desktop"/>
+        <value type="string" value="octopi.desktop"/>
+        <value type="string" value="xfce-wmtweaks-settings.desktop"/>
+        <value type="string" value="xfce-workspaces-settings.desktop"/>
+        <value type="string" value="panel-preferences.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="xfce-ui-settings.desktop"/>
+      </property>
+      <property name="menu-opacity" type="int" value="60"/>
+    </property>
     <property name="plugin-7" type="string" value="netload"/>
     <property name="plugin-15" type="string" value="showdesktop"/>
-    <property name="plugin-14" type="string" value="windowmenu"/>
-    <property name="plugin-16" type="string" value="pager">
-      <property name="rows" type="uint" value="1"/>
-      <property name="miniature-view" type="bool" value="false"/>
-    </property>
     <property name="plugin-17" type="string" value="separator">
       <property name="expand" type="bool" value="false"/>
       <property name="style" type="uint" value="0"/>
@@ -214,6 +306,15 @@
         <property name="show-qr-code" type="bool" value="true"/>
       </property>
     </property>
-    <property name="plugin-4" type="string" value="xfce4-clipman-plugin"/>
+    <property name="plugin-40" type="string" value="xfce4-clipman-plugin"/>
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="false"/>
+    </property>
+    <property name="plugin-14" type="string" value="windowmenu"/>
+    <property name="plugin-16" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
   </property>
 </channel>

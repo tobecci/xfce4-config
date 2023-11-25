@@ -4,7 +4,7 @@
   <property name="Compx_24G_Receiver_Mouse" type="empty">
     <property name="RightHanded" type="bool" value="true"/>
     <property name="Threshold" type="int" value="1"/>
-    <property name="Acceleration" type="double" value="4.000000"/>
+    <property name="Acceleration" type="double" value="4"/>
   </property>
   <property name="SynPS2_Synaptics_TouchPad" type="empty">
     <property name="Properties" type="empty">
@@ -12,7 +12,7 @@
     </property>
     <property name="RightHanded" type="bool" value="true"/>
     <property name="Threshold" type="int" value="1"/>
-    <property name="Acceleration" type="double" value="9.000000"/>
+    <property name="Acceleration" type="double" value="9"/>
     <property name="ReverseScrolling" type="bool" value="false"/>
   </property>
   <property name="Synaptics_TM3385-001" type="empty">
@@ -21,11 +21,17 @@
     </property>
     <property name="RightHanded" type="bool" value="true"/>
     <property name="Threshold" type="int" value="1"/>
-    <property name="Acceleration" type="double" value="5.000000"/>
+    <property name="Acceleration" type="double" value="5"/>
   </property>
   <property name="24G_Mouse" type="empty">
     <property name="RightHanded" type="bool" value="true"/>
     <property name="Threshold" type="int" value="1"/>
-    <property name="Acceleration" type="double" value="6.900000"/>
+    <property name="Acceleration" type="double" value="7"/>
+  </property>
+  <property name="Synaptics_TM3409-001" type="empty">
+    <property name="RightHanded" type="bool" value="true"/>
+    <property name="ReverseScrolling" type="bool" value="false"/>
+    <property name="Threshold" type="int" value="1"/>
+    <property name="Acceleration" type="double" value="8.0000001192092896"/>
   </property>
 </channel>
