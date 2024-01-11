@@ -5,7 +5,7 @@
   <property name="window-height" type="int" value="968"/>
   <property name="columns" type="empty">
     <property name="sort-type" type="uint" value="1"/>
-    <property name="sort-id" type="uint" value="7"/>
+    <property name="sort-id" type="uint" value="1"/>
     <property name="positions" type="string" value="0;3;4;5;6;2;7;1;8;"/>
   </property>
   <property name="interface" type="empty">
@@ -16,5 +16,5 @@
     <property name="show-filter" type="bool" value="true"/>
     <property name="refresh-rate" type="uint" value="2000"/>
   </property>
-  <property name="window-maximized" type="bool" value="false"/>
+  <property name="window-maximized" type="bool" value="true"/>
 </channel>

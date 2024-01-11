@@ -1,9 +1,9 @@
-app=gimp-2.10
+app=ristretto
 last_user=
 last_extension=png
-screenshot_dir=file:/home/tobecci
+screenshot_dir=file:/home/tobecci/Pictures/Screenshots
 enable_imgur_upload=true
-action=1
+action=2
 delay=0
 region=3
 show_mouse=1

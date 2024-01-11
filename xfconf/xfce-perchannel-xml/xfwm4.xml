@@ -4,17 +4,17 @@
   <property name="general" type="empty">
     <property name="activate_action" type="string" value="switch"/>
     <property name="borderless_maximize" type="bool" value="false"/>
-    <property name="box_move" type="bool" value="false"/>
-    <property name="box_resize" type="bool" value="false"/>
-    <property name="button_layout" type="string" value="CHM|"/>
+    <property name="box_move" type="bool" value="true"/>
+    <property name="box_resize" type="bool" value="true"/>
+    <property name="button_layout" type="string" value="C|HM"/>
     <property name="button_offset" type="int" value="0"/>
     <property name="button_spacing" type="int" value="0"/>
     <property name="click_to_focus" type="bool" value="true"/>
     <property name="cycle_apps_only" type="bool" value="false"/>
-    <property name="cycle_draw_frame" type="bool" value="false"/>
+    <property name="cycle_draw_frame" type="bool" value="true"/>
     <property name="cycle_hidden" type="bool" value="true"/>
-    <property name="cycle_minimized" type="bool" value="true"/>
-    <property name="cycle_minimum" type="bool" value="true"/>
+    <property name="cycle_minimized" type="bool" value="false"/>
+    <property name="cycle_minimum" type="bool" value="false"/>
     <property name="cycle_raise" type="bool" value="true"/>
     <property name="cycle_preview" type="bool" value="true"/>
     <property name="cycle_tabwin_mode" type="int" value="1"/>
@@ -24,7 +24,7 @@
     <property name="double_click_time" type="int" value="250"/>
     <property name="easy_click" type="string" value="Super"/>
     <property name="focus_delay" type="int" value="803"/>
-    <property name="focus_hint" type="bool" value="true"/>
+    <property name="focus_hint" type="bool" value="false"/>
     <property name="focus_new" type="bool" value="true"/>
     <property name="frame_border_top" type="int" value="0"/>
     <property name="frame_opacity" type="int" value="100"/>
@@ -35,7 +35,7 @@
     <property name="mousewheel_rollup" type="bool" value="false"/>
     <property name="move_opacity" type="int" value="100"/>
     <property name="placement_mode" type="string" value="center"/>
-    <property name="placement_ratio" type="int" value="100"/>
+    <property name="placement_ratio" type="int" value="0"/>
     <property name="popup_opacity" type="int" value="100"/>
     <property name="prevent_focus_stealing" type="bool" value="false"/>
     <property name="raise_delay" type="int" value="157"/>
@@ -60,8 +60,8 @@
     <property name="snap_width" type="int" value="10"/>
     <property name="theme" type="string" value="Mojave-dark"/>
     <property name="tile_on_move" type="bool" value="true"/>
-    <property name="title_alignment" type="string" value="center"/>
-    <property name="title_font" type="string" value="SF Compact Text 11"/>
+    <property name="title_alignment" type="string" value="right"/>
+    <property name="title_font" type="string" value="SF Compact Text 15"/>
     <property name="title_horizontal_offset" type="int" value="0"/>
     <property name="title_shadow_active" type="string" value="false"/>
     <property name="title_shadow_inactive" type="string" value="false"/>
@@ -72,12 +72,12 @@
     <property name="toggle_workspaces" type="bool" value="false"/>
     <property name="unredirect_overlays" type="bool" value="true"/>
     <property name="urgent_blink" type="bool" value="true"/>
-    <property name="use_compositing" type="bool" value="false"/>
-    <property name="workspace_count" type="int" value="6"/>
+    <property name="use_compositing" type="bool" value="true"/>
+    <property name="workspace_count" type="int" value="3"/>
     <property name="workspace_names" type="array">
-      <value type="string" value="[ 1 ] Tobecci"/>
-      <value type="string" value="[ 2 ] Raoatech"/>
-      <value type="string" value="[ 3 ] Kloza"/>
+      <value type="string" value="•"/>
+      <value type="string" value="••"/>
+      <value type="string" value=" "/>
       <value type="string" value="[ 4 ] Xnova"/>
       <value type="string" value="[ 5 ] Plug"/>
       <value type="string" value="[ 6 ] Limbo"/>
@@ -86,16 +86,16 @@
       <value type="string" value="9"/>
       <value type="string" value="10"/>
     </property>
-    <property name="wrap_cycle" type="bool" value="false"/>
-    <property name="wrap_layout" type="bool" value="false"/>
+    <property name="wrap_cycle" type="bool" value="true"/>
+    <property name="wrap_layout" type="bool" value="true"/>
     <property name="wrap_resistance" type="int" value="10"/>
     <property name="wrap_windows" type="bool" value="false"/>
     <property name="wrap_workspaces" type="bool" value="false"/>
     <property name="zoom_desktop" type="bool" value="true"/>
     <property name="zoom_pointer" type="bool" value="true"/>
-    <property name="margin_left" type="int" value="13"/>
-    <property name="margin_top" type="int" value="85"/>
-    <property name="margin_right" type="int" value="13"/>
-    <property name="margin_bottom" type="int" value="85"/>
+    <property name="margin_left" type="int" value="20"/>
+    <property name="margin_top" type="int" value="130"/>
+    <property name="margin_right" type="int" value="20"/>
+    <property name="margin_bottom" type="int" value="20"/>
   </property>
 </channel>
