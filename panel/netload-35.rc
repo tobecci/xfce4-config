@@ -2,14 +2,14 @@ Use_Label=false
 Show_Values=true
 Show_Bars=false
 Colorize_Values=true
-Color_In=rgb(51,209,122)
+Color_In=rgb(64,255,37)
 Color_Out=rgb(246,245,244)
 Text=Net
 Network_Device=wlo1
 Max_In=4096
 Max_Out=4096
 Auto_Max=true
-Update_Interval=250
+Update_Interval=3000
 Values_As_Bits=false
-Digits=0
+Digits=2
 

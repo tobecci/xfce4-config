@@ -171,7 +171,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/lucas-kapla-wQLAGv4_OYs-unsplash.jpg"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/pexels-elijah-o&apos;donnell-3473569 (1).jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -243,5 +243,6 @@
     <property name="show" type="bool" value="true"/>
     <property name="show-submenus" type="bool" value="false"/>
     <property name="show-sticky-once" type="bool" value="true"/>
+    <property name="show-icons" type="bool" value="true"/>
   </property>
 </channel>

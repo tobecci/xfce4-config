@@ -44,12 +44,15 @@
 - [ Super + B ] Bluetooth Manager
 - [ Super + Shift + B ] Pavucontrol (audio config basically)
 - [ Super + Shift + C ] Chromium 
-- [ Super + ]
-- [ Super + ]
-- [ Super + ]
-- [ Super + ]
-- [ Super + ]
-- [ Super + ]
+#### Firefox profiles
+- [ Super + Shift + 1 ] Tobecci
+- [ Super + Shift + 2 ] Raoatech 
+- [ Super + Shift + 3 ] Kloza
+- [ Super + Shift + 4 ] XNova
+- [ Super + Shift + 5 ] Plug
+- [ Super + Shift + 0 ] Mifi
+- [ Super + Shift + - ] Socials 2
+- [ Super + Shift + = ] Socials 1
 - [ Super + ]
 
 ### Others

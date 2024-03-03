@@ -22,6 +22,7 @@
       <value type="string" value="org.manjaro.pamac.tray"/>
       <value type="string" value="org.xfce.Thunar"/>
       <value type="string" value="Package Manager"/>
+      <value type="string" value="script_launchapp_login"/>
       <value type="string" value="Skype"/>
       <value type="string" value="Slack"/>
       <value type="string" value="test"/>
@@ -34,6 +35,9 @@
       <value type="string" value="xfce4-settings-helper"/>
       <value type="string" value="Zenity notification"/>
     </property>
+    <property name="excluded-from-log" type="array">
+      <value type="string" value="Xfce4-notifyd settings"/>
+    </property>
   </property>
   <property name="notification-log" type="bool" value="true"/>
   <property name="expire-timeout" type="int" value="5"/>
@@ -41,19 +45,25 @@
   <property name="log-max-size-enabled" type="bool" value="true"/>
   <property name="date-time-format" type="int" value="0"/>
   <property name="date-time-custom-format" type="string" value="%a %H:%M:%S"/>
-  <property name="initial-opacity" type="double" value="0.80000000000000004"/>
+  <property name="initial-opacity" type="double" value="1"/>
   <property name="show-text-with-gauge" type="bool" value="true"/>
-  <property name="log-max-size" type="uint" value="10"/>
+  <property name="log-max-size" type="uint" value="30"/>
   <property name="notification-display-fields" type="string" value="full"/>
-  <property name="theme" type="string" value="Mc-OS-CTLina-XFCE-Dark"/>
-  <property name="show-notifications-on" type="string" value="active-monitor"/>
+  <property name="theme" type="string" value="Retro"/>
+  <property name="show-notifications-on" type="string" value="all-monitors"/>
   <property name="log-level" type="string" value="always"/>
   <property name="log-level-apps" type="string" value="all"/>
-  <property name="notify-location" type="string" value="top-center"/>
+  <property name="notify-location" type="string" value="bottom-right"/>
   <property name="do-not-disturb" type="bool" value="false"/>
   <property name="do-fadeout" type="bool" value="false"/>
   <property name="plugin" type="empty">
-    <property name="show-in-menu" type="string" value="show-unread"/>
-    <property name="hide-on-read" type="bool" value="true"/>
+    <property name="show-in-menu" type="string" value="show-all"/>
+    <property name="hide-on-read" type="bool" value="false"/>
+    <property name="log-icon-size" type="int" value="20"/>
+    <property name="log-display-limit" type="int" value="10"/>
+    <property name="after-menu-shown" type="string" value="do-nothing"/>
+    <property name="hide-clear-prompt" type="bool" value="true"/>
   </property>
+  <property name="mute-sounds" type="bool" value="false"/>
+  <property name="gauge-ignores-dnd" type="bool" value="true"/>
 </channel>
