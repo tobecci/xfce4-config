@@ -10,8 +10,9 @@
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="16"/>
-      <property name="size" type="uint" value="60"/>
+      <property name="size" type="uint" value="47"/>
       <property name="plugin-ids" type="array">
+        <value type="int" value="41"/>
         <value type="int" value="1"/>
         <value type="int" value="2"/>
       </property>
@@ -24,85 +25,96 @@
         <value type="double" value="0.11666700000000001"/>
         <value type="double" value="0.11666700000000001"/>
         <value type="double" value="0.11666700000000001"/>
-        <value type="double" value="1"/>
+        <value type="double" value="0.80000000000000004"/>
       </property>
-      <property name="background-color" type="string" value="#ffffff"/>
+      <property name="background-color" type="array">
+        <value type="uint" value="56540"/>
+        <value type="uint" value="56026"/>
+        <value type="uint" value="54741"/>
+        <value type="uint" value="65535"/>
+      </property>
       <property name="background-hex" type="string" value="#ffffff"/>
       <property name="mode" type="uint" value="0"/>
       <property name="length-adjust" type="bool" value="true"/>
+      <property name="background-image" type="string" value=""/>
+      <property name="background-alpha" type="int" value="100"/>
     </property>
-    <property name="dark-mode" type="bool" value="false"/>
+    <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-2" type="empty">
       <property name="position" type="string" value="p=8;x=97;y=1055"/>
-      <property name="size" type="uint" value="60"/>
+      <property name="size" type="uint" value="50"/>
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="32"/>
+      <property name="icon-size" type="uint" value="30"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="4"/>
         <value type="int" value="3"/>
         <value type="int" value="34"/>
         <value type="int" value="36"/>
         <value type="int" value="35"/>
-        <value type="int" value="15"/>
-        <value type="int" value="13"/>
-        <value type="int" value="12"/>
-        <value type="int" value="14"/>
-        <value type="int" value="10"/>
-        <value type="int" value="54"/>
-        <value type="int" value="53"/>
-        <value type="int" value="49"/>
-        <value type="int" value="52"/>
-        <value type="int" value="29"/>
-        <value type="int" value="47"/>
-        <value type="int" value="48"/>
-        <value type="int" value="31"/>
-        <value type="int" value="45"/>
-        <value type="int" value="46"/>
-        <value type="int" value="50"/>
-        <value type="int" value="51"/>
-        <value type="int" value="32"/>
-        <value type="int" value="43"/>
-        <value type="int" value="44"/>
-        <value type="int" value="42"/>
-        <value type="int" value="41"/>
-        <value type="int" value="33"/>
-        <value type="int" value="39"/>
-        <value type="int" value="37"/>
-        <value type="int" value="38"/>
-        <value type="int" value="40"/>
-        <value type="int" value="7"/>
-        <value type="int" value="8"/>
-        <value type="int" value="9"/>
-        <value type="int" value="22"/>
-        <value type="int" value="5"/>
         <value type="int" value="6"/>
+        <value type="int" value="17"/>
+        <value type="int" value="13"/>
+        <value type="int" value="8"/>
+        <value type="int" value="31"/>
+        <value type="int" value="9"/>
+        <value type="int" value="26"/>
+        <value type="int" value="11"/>
+        <value type="int" value="5"/>
+        <value type="int" value="32"/>
+        <value type="int" value="23"/>
+        <value type="int" value="28"/>
+        <value type="int" value="25"/>
+        <value type="int" value="27"/>
+        <value type="int" value="29"/>
+        <value type="int" value="10"/>
+        <value type="int" value="7"/>
+        <value type="int" value="14"/>
+        <value type="int" value="18"/>
+        <value type="int" value="19"/>
+        <value type="int" value="24"/>
+        <value type="int" value="20"/>
+        <value type="int" value="12"/>
+        <value type="int" value="33"/>
+        <value type="int" value="15"/>
+        <value type="int" value="21"/>
+        <value type="int" value="30"/>
+        <value type="int" value="16"/>
       </property>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
         <value type="double" value="0.11666700000000001"/>
         <value type="double" value="0.11666700000000001"/>
         <value type="double" value="0.11666700000000001"/>
-        <value type="double" value="1"/>
+        <value type="double" value="0.80000000000000004"/>
       </property>
       <property name="enable-struts" type="bool" value="true"/>
       <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="background-image" type="string" value=""/>
+      <property name="background-alpha" type="int" value="100"/>
+      <property name="background-color" type="array">
+        <value type="uint" value="56540"/>
+        <value type="uint" value="56026"/>
+        <value type="uint" value="54741"/>
+        <value type="uint" value="65535"/>
+      </property>
     </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
       <property name="grouping" type="bool" value="false"/>
       <property name="middle-click" type="uint" value="2"/>
-      <property name="sort-order" type="uint" value="4"/>
+      <property name="sort-order" type="uint" value="0"/>
       <property name="flat-buttons" type="bool" value="false"/>
       <property name="show-wireframes" type="bool" value="false"/>
       <property name="window-scrolling" type="bool" value="false"/>
       <property name="include-all-workspaces" type="bool" value="false"/>
       <property name="show-labels" type="bool" value="true"/>
       <property name="show-handle" type="bool" value="false"/>
-      <property name="show-tooltips" type="bool" value="false"/>
+      <property name="show-tooltips" type="bool" value="true"/>
       <property name="include-all-monitors" type="bool" value="false"/>
       <property name="show-only-minimized" type="bool" value="false"/>
+      <property name="switch-workspace-on-unminimize" type="bool" value="false"/>
     </property>
     <property name="plugin-1" type="string" value="whiskermenu">
       <property name="button-icon" type="string" value="draw-circle"/>
@@ -116,42 +128,33 @@
       <property name="menu-height" type="int" value="700"/>
       <property name="command-switchuser" type="string" value="dm-tool switch-to-greeter"/>
       <property name="favorites" type="array">
-        <value type="string" value="panel-preferences.desktop"/>
-        <value type="string" value="xfce-ui-settings.desktop"/>
-        <value type="string" value="xfce-wm-settings.desktop"/>
-        <value type="string" value="xfce-wmtweaks-settings.desktop"/>
-        <value type="string" value="pavucontrol.desktop"/>
         <value type="string" value="insomnium.desktop"/>
-        <value type="string" value="bruno.desktop"/>
-        <value type="string" value="octopi.desktop"/>
         <value type="string" value="bitwarden.desktop"/>
-        <value type="string" value="vlc.desktop"/>
-        <value type="string" value="nm-connection-editor.desktop"/>
-        <value type="string" value="com.github.wwmm.easyeffects.desktop"/>
-        <value type="string" value="org.gnome.Rhythmbox3.desktop"/>
-        <value type="string" value="xfce-session-settings.desktop"/>
         <value type="string" value="trilium.desktop"/>
-        <value type="string" value="xfce-workspaces-settings.desktop"/>
+        <value type="string" value="octopi.desktop"/>
+        <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="nm-connection-editor.desktop"/>
+        <value type="string" value="com.obsproject.Studio.desktop"/>
+        <value type="string" value="iriunwebcam.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="xfce4-clipman-settings.desktop"/>
-        <value type="string" value="xfce-display-settings.desktop"/>
-        <value type="string" value="octopi.desktop"/>
-        <value type="string" value="kvantummanager.desktop"/>
-        <value type="string" value="xfce4-notifyd-config.desktop"/>
-        <value type="string" value="trilium.desktop"/>
-        <value type="string" value="bitwarden.desktop"/>
-        <value type="string" value="xfce-wm-settings.desktop"/>
-        <value type="string" value="qt5ct.desktop"/>
         <value type="string" value="xfce-workspaces-settings.desktop"/>
+        <value type="string" value="qt5ct.desktop"/>
+        <value type="string" value="octopi.desktop"/>
+        <value type="string" value="xfce4-notifyd-config.desktop"/>
+        <value type="string" value="xfce-mouse-settings.desktop"/>
+        <value type="string" value="trilium.desktop"/>
+        <value type="string" value="tlpui.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
       </property>
       <property name="menu-opacity" type="int" value="57"/>
-      <property name="category-icon-size" type="int" value="1"/>
+      <property name="category-icon-size" type="int" value="3"/>
       <property name="launcher-show-name" type="bool" value="true"/>
       <property name="launcher-show-tooltip" type="bool" value="false"/>
       <property name="button-single-row" type="bool" value="false"/>
       <property name="stay-on-focus-out" type="bool" value="false"/>
-      <property name="show-button-title" type="bool" value="false"/>
+      <property name="show-button-title" type="bool" value="true"/>
       <property name="show-command-settings" type="bool" value="false"/>
       <property name="show-command-lockscreen" type="bool" value="false"/>
       <property name="show-command-logout" type="bool" value="false"/>
@@ -159,19 +162,22 @@
       <property name="show-command-profile" type="bool" value="false"/>
       <property name="profile-shape" type="int" value="2"/>
       <property name="hover-switch-category" type="bool" value="false"/>
+      <property name="show-button-icon" type="bool" value="false"/>
+      <property name="button-title" type="string" value="../"/>
     </property>
     <property name="clipman" type="empty">
       <property name="tweaks" type="empty">
-        <property name="popup-at-pointer" type="bool" value="true"/>
-        <property name="max-menu-items" type="uint" value="50"/>
+        <property name="popup-at-pointer" type="bool" value="false"/>
+        <property name="max-menu-items" type="uint" value="20"/>
         <property name="paste-on-activate" type="uint" value="0"/>
+        <property name="never-confirm-history-clear" type="bool" value="true"/>
       </property>
       <property name="settings" type="empty">
-        <property name="max-texts-in-history" type="uint" value="50"/>
+        <property name="max-texts-in-history" type="uint" value="20"/>
         <property name="show-qr-code" type="bool" value="false"/>
         <property name="add-primary-clipboard" type="bool" value="false"/>
-        <property name="max-images-in-history" type="uint" value="0"/>
-        <property name="save-on-quit" type="bool" value="false"/>
+        <property name="max-images-in-history" type="uint" value="1"/>
+        <property name="save-on-quit" type="bool" value="true"/>
         <property name="history-ignore-primary-clipboard" type="bool" value="true"/>
       </property>
     </property>
@@ -185,36 +191,104 @@
         <property name="height" type="int" value="375"/>
       </property>
     </property>
-    <property name="plugin-22" type="string" value="actions">
-      <property name="appearance" type="uint" value="0"/>
-      <property name="items" type="array">
-        <value type="string" value="-lock-screen"/>
-        <value type="string" value="-switch-user"/>
-        <value type="string" value="+separator"/>
-        <value type="string" value="+suspend"/>
-        <value type="string" value="-hibernate"/>
-        <value type="string" value="-hybrid-sleep"/>
-        <value type="string" value="-separator"/>
-        <value type="string" value="+shutdown"/>
-        <value type="string" value="-restart"/>
-        <value type="string" value="+separator"/>
-        <value type="string" value="+logout"/>
-        <value type="string" value="-logout-dialog"/>
-      </property>
-    </property>
-    <property name="plugin-29" type="string" value="xfce4-clipman-plugin"/>
     <property name="plugin-31" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="volume-max" type="uint" value="100"/>
-      <property name="play-sound" type="bool" value="true"/>
+      <property name="volume-max" type="uint" value="300"/>
+      <property name="play-sound" type="bool" value="false"/>
       <property name="rec-indicator-persistent" type="bool" value="true"/>
       <property name="known-players" type="string" value="firefox;org.gnome.Rhythmbox3;vlc"/>
-      <property name="volume-step" type="uint" value="20"/>
+      <property name="volume-step" type="uint" value="5"/>
       <property name="enable-multimedia-keys" type="bool" value="false"/>
+      <property name="show-notifications" type="uint" value="2"/>
+      <property name="enable-wnck" type="bool" value="false"/>
+      <property name="enable-mpris" type="bool" value="true"/>
     </property>
     <property name="plugin-32" type="string" value="power-manager-plugin"/>
     <property name="plugin-33" type="string" value="systray">
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (73%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (54%)"/>
+        <value type="string" value="ethernet network connection “wired connection 2” active"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (75%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (72%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (66%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (71%)"/>
+        <value type="string" value="networking disabled"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (70%)"/>
+        <value type="string" value="configuring wi-fi network connection “_.   ._”…"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (68%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (87%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (88%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (86%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (82%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (74%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (85%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (81%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (83%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (69%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (94%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (93%)"/>
+        <value type="string" value="no network connection"/>
+        <value type="string" value="configuring wi-fi network connection “_.i._”…"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (68%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (75%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (70%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (71%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (67%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (63%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (60%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (65%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (97%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (76%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (78%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (87%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (85%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (86%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (90%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (67%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (91%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (76%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (100%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (89%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (84%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (92%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (97%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (99%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (78%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (77%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (89%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (88%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (66%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (80%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (63%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (79%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (65%)"/>
+        <value type="string" value="wi-fi network connection “_.   ._” active: _.   ._ (95%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (95%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (99%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (81%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (82%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (100%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (83%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (80%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (74%)"/>
+        <value type="string" value="wi-fi network connection “_.i._” active: _.i._ (77%)"/>
+        <value type="string" value="tachidesk-server"/>
+        <value type="string" value="java"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active"/>
+        <value type="string" value="blueman"/>
+        <value type="string" value="wi-fi network connection “android_tobecci” active: android_tobecci (100%)"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (92%)"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (91%)"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (90%)"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (86%)"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (95%)"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (99%)"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (71%)"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (97%)"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (76%)"/>
+        <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (73%)"/>
         <value type="string" value="xfce4-power-manager"/>
         <value type="string" value="wi-fi network connection “android_tobecci” active: android_tobecci (74%)"/>
         <value type="string" value="wi-fi network connection “android_tobecci” active: android_tobecci (76%)"/>
@@ -270,15 +344,20 @@
         <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (82%)"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="obs"/>
         <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="blueman"/>
       </property>
       <property name="icon-size" type="int" value="32"/>
       <property name="square-icons" type="bool" value="true"/>
       <property name="single-row" type="bool" value="true"/>
-      <property name="symbolic-icons" type="bool" value="true"/>
+      <property name="symbolic-icons" type="bool" value="false"/>
       <property name="menu-is-primary" type="bool" value="true"/>
       <property name="hide-new-items" type="bool" value="false"/>
+      <property name="hidden-legacy-items" type="array">
+      </property>
+      <property name="hidden-items" type="array">
+      </property>
     </property>
     <property name="plugin-34" type="string" value="clock">
       <property name="digital-layout" type="uint" value="3"/>
@@ -297,80 +376,31 @@
       <property name="style" type="uint" value="0"/>
       <property name="expand" type="bool" value="true"/>
     </property>
-    <property name="plugin-37" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-38" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-39" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-40" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-41" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-42" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-43" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-44" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-45" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-46" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-47" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-48" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-49" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-50" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-51" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-52" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-53" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-54" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-4" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
+    <property name="plugin-7" type="string" value="notification-plugin"/>
     <property name="plugin-5" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-6" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-7" type="string" value="notification-plugin"/>
     <property name="plugin-8" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-9" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-10" type="string" value="kbdleds"/>
+    <property name="plugin-10" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
     <property name="plugin-12" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
@@ -381,6 +411,51 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-15" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-16" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-17" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-18" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-19" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-20" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-21" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-23" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-24" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-25" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-26" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-27" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-28" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-29" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-30" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-41" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
   </property>

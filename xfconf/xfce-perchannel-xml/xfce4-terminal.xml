@@ -11,8 +11,8 @@
   <property name="misc-bell-urgent" type="bool" value="false"/>
   <property name="misc-borders-default" type="bool" value="true"/>
   <property name="misc-cursor-blinks" type="bool" value="false"/>
-  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_BLOCK"/>
-  <property name="misc-default-geometry" type="string" value="80x24"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_IBEAM"/>
+  <property name="misc-default-geometry" type="string" value="315x40"/>
   <property name="misc-inherit-geometry" type="bool" value="false"/>
   <property name="misc-menubar-default" type="bool" value="true"/>
   <property name="misc-mouse-autohide" type="bool" value="false"/>
@@ -34,4 +34,9 @@
   <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
   <property name="misc-right-click-action" type="string" value="TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU"/>
   <property name="shortcuts-no-mnemonics" type="bool" value="true"/>
+  <property name="title-mode" type="string" value="TERMINAL_TITLE_APPEND"/>
+  <property name="title-initial" type="string" value="manual"/>
+  <property name="text-blink-mode" type="string" value="TERMINAL_TEXT_BLINK_MODE_NEVER"/>
+  <property name="cell-width-scale" type="double" value="1"/>
+  <property name="cell-height-scale" type="double" value="2"/>
 </channel>

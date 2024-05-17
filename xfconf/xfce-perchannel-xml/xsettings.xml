@@ -2,29 +2,29 @@
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="Mojave-dark"/>
-    <property name="IconThemeName" type="string" value="Papirus-Dark"/>
-    <property name="DoubleClickTime" type="empty"/>
-    <property name="DoubleClickDistance" type="empty"/>
-    <property name="DndDragThreshold" type="empty"/>
+    <property name="ThemeName" type="string" value="WhiteSur-Dark"/>
+    <property name="IconThemeName" type="string" value="WhiteSur-dark"/>
+    <property name="DoubleClickTime" type="int" value="700"/>
+    <property name="DoubleClickDistance" type="int" value="20"/>
+    <property name="DndDragThreshold" type="int" value="1"/>
     <property name="CursorBlink" type="bool" value="false"/>
     <property name="CursorBlinkTime" type="empty"/>
     <property name="SoundThemeName" type="empty"/>
-    <property name="EnableEventSounds" type="bool" value="true"/>
-    <property name="EnableInputFeedbackSounds" type="bool" value="true"/>
+    <property name="EnableEventSounds" type="bool" value="false"/>
+    <property name="EnableInputFeedbackSounds" type="bool" value="false"/>
   </property>
   <property name="Xft" type="empty">
-    <property name="DPI" type="int" value="96"/>
+    <property name="DPI" type="int" value="92"/>
     <property name="Antialias" type="int" value="1"/>
     <property name="Hinting" type="int" value="1"/>
-    <property name="HintStyle" type="string" value="hintfull"/>
-    <property name="RGBA" type="string" value="rgb"/>
+    <property name="HintStyle" type="string" value="hintslight"/>
+    <property name="RGBA" type="string" value="bgr"/>
   </property>
   <property name="Gtk" type="empty">
     <property name="CanChangeAccels" type="bool" value="false"/>
     <property name="ColorPalette" type="empty"/>
-    <property name="FontName" type="string" value="SF Compact Text 14"/>
-    <property name="MonospaceFontName" type="string" value="SF Mono Medium 14"/>
+    <property name="FontName" type="string" value="SF Compact Text 13"/>
+    <property name="MonospaceFontName" type="string" value="SF Mono Medium 13"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
     <property name="ToolbarStyle" type="empty"/>
@@ -32,9 +32,9 @@
     <property name="MenuImages" type="bool" value="true"/>
     <property name="ButtonImages" type="bool" value="true"/>
     <property name="MenuBarAccel" type="empty"/>
-    <property name="CursorThemeName" type="string" value="capitaine-cursors"/>
-    <property name="CursorThemeSize" type="int" value="40"/>
-    <property name="DecorationLayout" type="string" value=":close"/>
+    <property name="CursorThemeName" type="string" value="Umbrella-vr1"/>
+    <property name="CursorThemeSize" type="int" value="43"/>
+    <property name="DecorationLayout" type="string" value="close:"/>
     <property name="DialogsUseHeader" type="bool" value="false"/>
     <property name="TitlebarMiddleClick" type="empty"/>
   </property>
@@ -42,7 +42,7 @@
     <property name="WindowScalingFactor" type="int" value="2"/>
   </property>
   <property name="Xfce" type="empty">
-    <property name="LastCustomDPI" type="int" value="96"/>
+    <property name="LastCustomDPI" type="int" value="92"/>
     <property name="SyncThemes" type="bool" value="false"/>
   </property>
 </channel>

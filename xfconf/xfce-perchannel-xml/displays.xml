@@ -24,7 +24,7 @@
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="361066ab1ff9c5fdcfdd2e0ae14f93eb84841acc"/>
       <property name="Resolution" type="string" value="3840x2160"/>
-      <property name="RefreshRate" type="double" value="60.0022502250225"/>
+      <property name="RefreshRate" type="double" value="40.001500150015005"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -60,7 +60,7 @@
       <property name="Active" type="bool" value="true"/>
       <property name="EDID" type="string" value="361066ab1ff9c5fdcfdd2e0ae14f93eb84841acc"/>
       <property name="Resolution" type="string" value="3840x2160"/>
-      <property name="RefreshRate" type="double" value="60.0022502250225"/>
+      <property name="RefreshRate" type="double" value="40.001500150015005"/>
       <property name="Rotation" type="int" value="0"/>
       <property name="Reflection" type="string" value="0"/>
       <property name="Primary" type="bool" value="false"/>
@@ -74,7 +74,7 @@
       </property>
     </property>
   </property>
-  <property name="Notify" type="int" value="1"/>
+  <property name="Notify" type="int" value="0"/>
   <property name="IdentityPopups" type="bool" value="false"/>
   <property name="a94a8fe5ccb19ba61c4c0873d391e987982fbbd3" type="string" value="test">
     <property name="DP-0" type="string" value="AU Optronics 15&quot;">

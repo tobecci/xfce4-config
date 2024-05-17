@@ -53,7 +53,7 @@
   <property name="show-notifications-on" type="string" value="all-monitors"/>
   <property name="log-level" type="string" value="always"/>
   <property name="log-level-apps" type="string" value="all"/>
-  <property name="notify-location" type="string" value="bottom-right"/>
+  <property name="notify-location" type="string" value="top-center"/>
   <property name="do-not-disturb" type="bool" value="false"/>
   <property name="do-fadeout" type="bool" value="false"/>
   <property name="plugin" type="empty">
