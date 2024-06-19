@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xfce4-terminal" version="1.0">
-  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_SOLID"/>
   <property name="background-darkness" type="double" value="1"/>
   <property name="color-palette" type="string" value="#000000;#cc0000;#4e9a06;#c4a000;#3465a4;#75507b;#06989a;#d3d7cf;#555753;#ef2929;#8ae234;#fce94f;#739fcf;#ad7fa8;#34e2e2;#eeeeec"/>
   <property name="font-allow-bold" type="bool" value="false"/>
@@ -14,7 +14,7 @@
   <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_IBEAM"/>
   <property name="misc-default-geometry" type="string" value="315x40"/>
   <property name="misc-inherit-geometry" type="bool" value="false"/>
-  <property name="misc-menubar-default" type="bool" value="true"/>
+  <property name="misc-menubar-default" type="bool" value="false"/>
   <property name="misc-mouse-autohide" type="bool" value="false"/>
   <property name="misc-mouse-wheel-zoom" type="bool" value="true"/>
   <property name="misc-toolbar-default" type="bool" value="false"/>

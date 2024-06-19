@@ -45,61 +45,52 @@
       <property name="&lt;Shift&gt;&lt;Super&gt;k" type="string" value="xfce4-keyboard-settings"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;b" type="string" value="/home/tobecci/.scripts/reloadPulseaudio.sh"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;d" type="string" value="xfdesktop-settings"/>
-      <property name="&lt;Super&gt;space" type="string" value="xfce4-popup-whiskermenu "/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;&lt;Super&gt;q" type="string" value="poweroff"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;w" type="string" value="xfwm4-settings"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;w" type="string" value="xfwm4-tweaks-settings"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;m" type="string" value="/home/tobecci/Documents/dev/scripts/xfceWindowHide/bin/maximize_all_windows"/>
       <property name="&lt;Super&gt;Escape" type="string" value="xfce4-taskmanager"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;asciicircum" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/leatherworks"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;at" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/raoatech"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;underscore" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/socials2"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;dollar" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/xnova"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;p" type="string" value="/home/tobecci/.scripts/reload_xfce.sh"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;r" type="string" value="/home/tobecci/.scripts/reset_resolution.sh"/>
       <property name="&lt;Super&gt;s" type="string" value="/home/tobecci/.scripts/scrotScreenshotRegion"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;plus" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/socials1"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;exclam" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/tobecci"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;parenright" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/mifi"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;percent" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/plug"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;r" type="string" value="/home/tobecci/Documents/dev/scripts/xfceWindowHide/bin/rename_active_window"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;numbersign" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/kloza"/>
       <property name="&lt;Alt&gt;&lt;Super&gt;s" type="string" value="/home/tobecci/.scripts/scrotDelayedScreenshot"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;m" type="string" value="/home/tobecci/Documents/dev/scripts/xfceWindowHide/bin/localize_windows"/>
       <property name="&lt;Super&gt;e" type="string" value="thunar /home/tobecci/Documents/dev"/>
       <property name="&lt;Super&gt;k" type="string" value="/home/tobecci/.scripts/keepNetworkAlive"/>
       <property name="&lt;Alt&gt;&lt;Super&gt;t" type="string" value="bash -c &apos;/usr/bin/alacritty --title $(date +%M%S) -qq --working-directory /home/tobecci/Documents/dev&apos;"/>
       <property name="&lt;Super&gt;z" type="string" value="/home/tobecci/.scripts/turnOffScreen"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;parenleft" type="string" value="/home/tobecci/.scripts/firefoxProfileLaunch/extraSession"/>
       <property name="&lt;Super&gt;i" type="string" value="/home/tobecci/.scripts/xfce-toggle-presentation-mode.sh"/>
       <property name="&lt;Super&gt;t" type="string" value="/home/tobecci/.scripts/launchers/terminalLaunch"/>
       <property name="&lt;Alt&gt;&lt;Super&gt;p" type="string" value="/home/tobecci/.scripts/launchers/xfcePanelDebug"/>
       <property name="&lt;Super&gt;Delete" type="string" value="xkill"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;z" type="string" value="/home/tobecci/.scripts/xfce/power/suspend"/>
-      <property name="&lt;Super&gt;b" type="string" value="blueman-manager &gt; /dev/null 2&gt;&amp;1"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;n" type="string" value="redshift -O 2000"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;v" type="string" value="/home/tobecci/.scripts/apps/vscode"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;Up" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/screen/brightness/increase.mjs"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;Down" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/screen/brightness/decrease.mjs"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;c" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/apps/chromium.mjs"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;space" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scrcpy/interactions/button.power.mjs"/>
-      <property name="KP_Enter" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scrcpy/interactions/button.home.mjs"/>
-      <property name="&lt;Super&gt;KP_Add" type="string" value="/home/tobecci/.scripts/personalMobileDevice/androidToPortrait"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;c" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/apps/chromium.mjs"/>
       <property name="&lt;Super&gt;KP_Subtract" type="string" value="/home/tobecci/.scripts/personalMobileDevice/androidToLandscape"/>
-      <property name="KP_Add" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scrcpy/interactions/button.back.mjs"/>
-      <property name="&lt;Super&gt;KP_Left" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scrcpy/wifi.mjs"/>
-      <property name="&lt;Super&gt;KP_Begin" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scrcpy/wifi.mjs manga"/>
-      <property name="&lt;Super&gt;KP_Right" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scrcpy/wifi.mjs small"/>
-      <property name="&lt;Super&gt;KP_End" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scrcpy/wifi.mjs usb"/>
-      <property name="&lt;Super&gt;KP_Down" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scrcpy/wifi.mjs usbManga"/>
-      <property name="&lt;Super&gt;KP_Divide" type="string" value="/home/tobecci/.scripts/personalMobileDevice/restartAutoScroller"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;t" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scripts/touchpad.routine.mjs"/>
-      <property name="&lt;Super&gt;grave" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/screen/brightness/lowest.brightness.mjs"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;asciitilde" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/screen/brightness/middle.brightness.mjs"/>
-      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;asciitilde" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/screen/brightness/highest.brightness.mjs"/>
-      <property name="KP_Insert" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scrcpy/interactions/button.power.mjs"/>
-      <property name="&lt;Super&gt;KP_Home" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/xfceUtils/src/scripts/touchpad.routine.mjs"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;t" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scripts/touchpad.routine.mjs"/>
+      <property name="&lt;Super&gt;grave" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/screen/brightness/lowest.brightness.mjs"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;asciitilde" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/screen/brightness/middle.brightness.mjs"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;asciitilde" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/screen/brightness/highest.brightness.mjs"/>
+      <property name="&lt;Super&gt;KP_Home" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scripts/touchpad.routine.mjs"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;p" type="string" value="xfce4-panel --preferences"/>
+      <property name="KP_Home" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scripts/touchpad.routine.mjs"/>
+      <property name="KP_Left" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs"/>
+      <property name="KP_Begin" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs manga"/>
+      <property name="KP_End" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs usb"/>
+      <property name="KP_Down" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs usbManga"/>
+      <property name="KP_Divide" type="string" value="/home/tobecci/.scripts/personalMobileDevice/restartAutoScroller"/>
+      <property name="&lt;Super&gt;b" type="string" value="blueman-manager"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;v" type="string" value="/home/tobecci/.scripts/apps/vscodeAsRootUser"/>
+      <property name="KP_Up" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs rec"/>
+      <property name="&lt;Super&gt;space" type="string" value="xfce4-popup-whiskermenu"/>
+      <property name="&lt;Super&gt;KP_Add" type="string" value="/home/tobecci/.scripts/personalMobileDevice/androidToPortrait"/>
+      <property name="KP_Insert" type="string" value="/home/tobecci/Documents/dev/scripts/xfceWindowHide/bin/switch_to_hidden_workspace"/>
+      <property name="&lt;Super&gt;x" type="string" value="/home/tobecci/Documents/dev/scripts/xfceWindowHide/bin/hide_active"/>
+      <property name="KP_Delete" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/interactions/button.power.mjs"/>
+      <property name="KP_Enter" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/interactions/button.home.mjs"/>
+      <property name="KP_Multiply" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/screen/torch/toggle.mjs"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
@@ -169,10 +160,8 @@
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;Left" type="string" value="move_window_left_key"/>
       <property name="Right" type="string" value="right_key"/>
       <property name="Down" type="string" value="down_key"/>
-      <property name="&lt;Alt&gt;Tab" type="string" value="cycle_windows_key"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;Right" type="string" value="move_window_right_key"/>
       <property name="Up" type="string" value="up_key"/>
-      <property name="&lt;Alt&gt;&lt;Shift&gt;Tab" type="string" value="cycle_reverse_windows_key"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;Up" type="string" value="move_window_up_key"/>
       <property name="Left" type="string" value="left_key"/>
       <property name="override" type="bool" value="true"/>
@@ -182,15 +171,14 @@
       <property name="&lt;Super&gt;f" type="string" value="fullscreen_key"/>
       <property name="&lt;Super&gt;q" type="string" value="close_window_key"/>
       <property name="&lt;Super&gt;d" type="string" value="show_desktop_key"/>
-      <property name="&lt;Super&gt;Left" type="string" value="tile_left_key"/>
-      <property name="&lt;Super&gt;Right" type="string" value="tile_right_key"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;Left" type="string" value="tile_up_left_key"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;Right" type="string" value="tile_up_right_key"/>
-      <property name="&lt;Primary&gt;&lt;Super&gt;Left" type="string" value="tile_down_left_key"/>
-      <property name="&lt;Primary&gt;&lt;Super&gt;Right" type="string" value="tile_down_right_key"/>
       <property name="&lt;Super&gt;m" type="string" value="maximize_window_key"/>
       <property name="&lt;Shift&gt;&lt;Alt&gt;space" type="string" value="popup_menu_key"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;h" type="string" value="hide_window_key"/>
+      <property name="&lt;Alt&gt;Tab" type="string" value="cycle_windows_key"/>
+      <property name="&lt;Shift&gt;&lt;Alt&gt;ISO_Left_Tab" type="string" value="cycle_reverse_windows_key"/>
+      <property name="&lt;Super&gt;Left" type="string" value="tile_left_key"/>
+      <property name="&lt;Super&gt;Right" type="string" value="tile_right_key"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;ISO_Left_Tab" type="string" value="switch_window_key"/>
     </property>
   </property>
   <property name="providers" type="array">

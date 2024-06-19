@@ -32,7 +32,7 @@
     <property name="RightHanded" type="bool" value="true"/>
     <property name="ReverseScrolling" type="bool" value="false"/>
     <property name="Threshold" type="int" value="1"/>
-    <property name="Acceleration" type="double" value="6.9000000000000004"/>
+    <property name="Acceleration" type="double" value="7.2999999999999998"/>
     <property name="Properties" type="empty">
       <property name="libinput_Tapping_Enabled" type="int" value="1"/>
     </property>

@@ -4,10 +4,10 @@
   <property name="default-view" type="string" value="ThunarDetailsView"/>
   <property name="last-compact-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_SMALLEST"/>
   <property name="last-details-view-column-order" type="string" value="THUNAR_COLUMN_NAME,THUNAR_COLUMN_SIZE,THUNAR_COLUMN_TYPE,THUNAR_COLUMN_DATE_MODIFIED"/>
-  <property name="last-details-view-column-widths" type="string" value="174,174,209,178,82,110,69,163,1278,178,108,73,108,151"/>
+  <property name="last-details-view-column-widths" type="string" value="174,174,133,187,82,110,69,163,1329,178,108,55,108,151"/>
   <property name="last-details-view-fixed-columns" type="bool" value="false"/>
   <property name="last-details-view-visible-columns" type="string" value="THUNAR_COLUMN_DATE_MODIFIED,THUNAR_COLUMN_NAME,THUNAR_COLUMN_SIZE"/>
-  <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_150_PERCENT"/>
+  <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_25_PERCENT"/>
   <property name="last-icon-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_400_PERCENT"/>
   <property name="last-location-bar" type="string" value="ThunarLocationButtons"/>
   <property name="last-separator-position" type="int" value="355"/>
@@ -17,8 +17,8 @@
   <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
   <property name="last-statusbar-visible" type="bool" value="true"/>
   <property name="last-view" type="string" value="ThunarDetailsView"/>
-  <property name="last-window-height" type="int" value="397"/>
-  <property name="last-window-width" type="int" value="760"/>
+  <property name="last-window-height" type="int" value="901"/>
+  <property name="last-window-width" type="int" value="956"/>
   <property name="last-window-maximized" type="bool" value="true"/>
   <property name="misc-volume-management" type="bool" value="true"/>
   <property name="misc-case-sensitive" type="bool" value="false"/>
@@ -32,7 +32,7 @@
   <property name="misc-single-click-timeout" type="uint" value="500"/>
   <property name="misc-text-beside-icons" type="bool" value="false"/>
   <property name="shortcuts-icon-emblems" type="bool" value="true"/>
-  <property name="shortcuts-icon-size" type="string" value="THUNAR_ICON_SIZE_48"/>
+  <property name="shortcuts-icon-size" type="string" value="THUNAR_ICON_SIZE_16"/>
   <property name="tree-icon-emblems" type="bool" value="true"/>
   <property name="tree-icon-size" type="string" value="THUNAR_ICON_SIZE_48"/>
   <property name="misc-middle-click-in-tab" type="bool" value="false"/>
@@ -47,7 +47,7 @@
   <property name="last-focused-tab-right" type="int" value="0"/>
   <property name="last-splitview-separator-position" type="int" value="803"/>
   <property name="last-tabs-left" type="array">
-    <value type="string" value="file:///home/tobecci/Documents/dev"/>
+    <value type="string" value="file:///home/tobecci/Downloads"/>
   </property>
   <property name="last-menubar-visible" type="bool" value="true"/>
   <property name="misc-open-new-window-as-tab" type="bool" value="false"/>
