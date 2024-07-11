@@ -76,21 +76,19 @@
       <property name="&lt;Super&gt;KP_Home" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scripts/touchpad.routine.mjs"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;p" type="string" value="xfce4-panel --preferences"/>
       <property name="KP_Home" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scripts/touchpad.routine.mjs"/>
-      <property name="KP_Left" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs"/>
-      <property name="KP_Begin" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs manga"/>
-      <property name="KP_End" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs usb"/>
-      <property name="KP_Down" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs usbManga"/>
       <property name="KP_Divide" type="string" value="/home/tobecci/.scripts/personalMobileDevice/restartAutoScroller"/>
       <property name="&lt;Super&gt;b" type="string" value="blueman-manager"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;v" type="string" value="/home/tobecci/.scripts/apps/vscodeAsRootUser"/>
-      <property name="KP_Up" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs rec"/>
       <property name="&lt;Super&gt;space" type="string" value="xfce4-popup-whiskermenu"/>
       <property name="&lt;Super&gt;KP_Add" type="string" value="/home/tobecci/.scripts/personalMobileDevice/androidToPortrait"/>
       <property name="KP_Insert" type="string" value="/home/tobecci/Documents/dev/scripts/xfceWindowHide/bin/switch_to_hidden_workspace"/>
       <property name="&lt;Super&gt;x" type="string" value="/home/tobecci/Documents/dev/scripts/xfceWindowHide/bin/hide_active"/>
       <property name="KP_Delete" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/interactions/button.power.mjs"/>
-      <property name="KP_Enter" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/interactions/button.home.mjs"/>
-      <property name="KP_Multiply" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/screen/torch/toggle.mjs"/>
+      <property name="&lt;Alt&gt;&lt;Super&gt;v" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scripts/detailsToClipboard.mjs"/>
+      <property name="KP_Enter" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/screen/torch/toggle.mjs"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;u" type="string" value="/opt/visual-studio-code/code --new-window --disable-gpu /home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;&lt;Super&gt;a" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs usb"/>
+      <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;a" type="string" value="/home/tobecci/Documents/dev/personalProjects/productivity/linuxUtils/src/scrcpy/android.mirror.mjs"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

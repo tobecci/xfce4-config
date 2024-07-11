@@ -9,8 +9,8 @@
       <property name="position" type="string" value="p=6;x=654;y=26"/>
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="16"/>
-      <property name="size" type="uint" value="40"/>
+      <property name="icon-size" type="uint" value="21"/>
+      <property name="size" type="uint" value="42"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
         <value type="int" value="2"/>
@@ -42,10 +42,10 @@
     <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-2" type="empty">
       <property name="position" type="string" value="p=8;x=97;y=1055"/>
-      <property name="size" type="uint" value="38"/>
+      <property name="size" type="uint" value="42"/>
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="16"/>
+      <property name="icon-size" type="uint" value="18"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="34"/>
         <value type="int" value="36"/>
@@ -84,15 +84,15 @@
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
       <property name="grouping" type="bool" value="false"/>
-      <property name="middle-click" type="uint" value="1"/>
+      <property name="middle-click" type="uint" value="2"/>
       <property name="sort-order" type="uint" value="4"/>
       <property name="flat-buttons" type="bool" value="false"/>
-      <property name="show-wireframes" type="bool" value="true"/>
+      <property name="show-wireframes" type="bool" value="false"/>
       <property name="window-scrolling" type="bool" value="false"/>
       <property name="include-all-workspaces" type="bool" value="false"/>
       <property name="show-labels" type="bool" value="true"/>
       <property name="show-handle" type="bool" value="false"/>
-      <property name="show-tooltips" type="bool" value="true"/>
+      <property name="show-tooltips" type="bool" value="false"/>
       <property name="include-all-monitors" type="bool" value="false"/>
       <property name="show-only-minimized" type="bool" value="false"/>
       <property name="switch-workspace-on-unminimize" type="bool" value="true"/>
@@ -105,7 +105,7 @@
       <property name="favorites-in-recent" type="bool" value="true"/>
       <property name="position-categories-alternate" type="bool" value="true"/>
       <property name="position-categories-horizontal" type="bool" value="true"/>
-      <property name="menu-width" type="int" value="800"/>
+      <property name="menu-width" type="int" value="1100"/>
       <property name="menu-height" type="int" value="700"/>
       <property name="command-switchuser" type="string" value="dm-tool switch-to-greeter"/>
       <property name="favorites" type="array">
@@ -119,26 +119,26 @@
         <value type="string" value="insomnium.desktop"/>
         <value type="string" value="robo3t.desktop"/>
         <value type="string" value="octopi.desktop"/>
-        <value type="string" value="trilium.desktop"/>
+        <value type="string" value="trilium-notes.desktop"/>
         <value type="string" value="nm-connection-editor.desktop"/>
         <value type="string" value="nvidia-settings.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
         <value type="string" value="galculator.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="insomnium.desktop"/>
-        <value type="string" value="galculator.desktop"/>
-        <value type="string" value="qt5ct.desktop"/>
-        <value type="string" value="firefoxProfiles-tobecci.desktop"/>
         <value type="string" value="nm-connection-editor.desktop"/>
-        <value type="string" value="xfce-workspaces-settings.desktop"/>
+        <value type="string" value="org.gnome.Cheese.desktop"/>
+        <value type="string" value="insomnium.desktop"/>
+        <value type="string" value="octopi.desktop"/>
+        <value type="string" value="wine-Programs-Games-Batman - Arkham Knight-Uninstall Batman - Arkham Knight.desktop"/>
         <value type="string" value="firefoxProfiles-kloza.desktop"/>
-        <value type="string" value="firefoxProfiles-socials2.desktop"/>
-        <value type="string" value="xfce4-notifyd-config.desktop"/>
-        <value type="string" value="xfce4-notes.desktop"/>
+        <value type="string" value="trilium-notes.desktop"/>
+        <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="robo3t.desktop"/>
+        <value type="string" value="qt5ct.desktop"/>
       </property>
       <property name="menu-opacity" type="int" value="57"/>
-      <property name="category-icon-size" type="int" value="1"/>
+      <property name="category-icon-size" type="int" value="2"/>
       <property name="launcher-show-name" type="bool" value="true"/>
       <property name="launcher-show-tooltip" type="bool" value="false"/>
       <property name="button-single-row" type="bool" value="false"/>
@@ -186,7 +186,7 @@
       <property name="volume-max" type="uint" value="300"/>
       <property name="play-sound" type="bool" value="true"/>
       <property name="rec-indicator-persistent" type="bool" value="true"/>
-      <property name="known-players" type="string" value="firefox"/>
+      <property name="known-players" type="string" value="firefox;vlc"/>
       <property name="volume-step" type="uint" value="5"/>
       <property name="enable-multimedia-keys" type="bool" value="false"/>
       <property name="show-notifications" type="uint" value="1"/>
@@ -198,6 +198,33 @@
     <property name="plugin-32" type="string" value="power-manager-plugin"/>
     <property name="plugin-33" type="string" value="systray">
       <property name="known-legacy-items" type="array">
+        <value type="string" value="requesting a wi-fi network address for “sphinx”…"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (76%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (65%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (99%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (94%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (89%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (95%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (79%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (75%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (70%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (80%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (62%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (59%)"/>
+        <value type="string" value="configuring wi-fi network connection “sphinx”…"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (82%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (85%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (87%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (92%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (97%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (84%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (90%)"/>
+        <value type="string" value="wi-fi network connection “sphinx” active: sphinx (77%)"/>
+        <value type="string" value="wi-fi network connection “whodeybreathe” active: whodeybreathe (79%)"/>
+        <value type="string" value="wi-fi network connection “readme.md” active: readme.md (83%)"/>
+        <value type="string" value="wi-fi network connection “readme.md” active: readme.md (76%)"/>
+        <value type="string" value="wi-fi network connection “readme.md” active: readme.md (77%)"/>
+        <value type="string" value="wi-fi network connection “readme.md” active: readme.md (69%)"/>
         <value type="string" value="wi-fi network connection “readme.md” active: readme.md (74%)"/>
         <value type="string" value="wi-fi network connection “readme.md” active: readme.md (90%)"/>
         <value type="string" value="wi-fi network connection “readme.md” active: readme.md (87%)"/>
@@ -378,7 +405,7 @@
         <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="blueman"/>
       </property>
-      <property name="icon-size" type="int" value="16"/>
+      <property name="icon-size" type="int" value="18"/>
       <property name="square-icons" type="bool" value="true"/>
       <property name="single-row" type="bool" value="true"/>
       <property name="symbolic-icons" type="bool" value="true"/>
