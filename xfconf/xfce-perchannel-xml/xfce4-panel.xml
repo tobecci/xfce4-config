@@ -10,7 +10,7 @@
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="21"/>
-      <property name="size" type="uint" value="42"/>
+      <property name="size" type="uint" value="53"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
         <value type="int" value="2"/>
@@ -42,7 +42,7 @@
     <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-2" type="empty">
       <property name="position" type="string" value="p=8;x=97;y=1055"/>
-      <property name="size" type="uint" value="42"/>
+      <property name="size" type="uint" value="53"/>
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="18"/>
@@ -84,7 +84,7 @@
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
       <property name="grouping" type="bool" value="false"/>
-      <property name="middle-click" type="uint" value="2"/>
+      <property name="middle-click" type="uint" value="1"/>
       <property name="sort-order" type="uint" value="4"/>
       <property name="flat-buttons" type="bool" value="false"/>
       <property name="show-wireframes" type="bool" value="false"/>
@@ -194,10 +194,15 @@
       <property name="enable-mpris" type="bool" value="true"/>
       <property name="ignored-players" type="string" value=""/>
       <property name="persistent-players" type="string" value=""/>
+      <property name="mpris-players" type="string" value="vlc"/>
     </property>
     <property name="plugin-32" type="string" value="power-manager-plugin"/>
     <property name="plugin-33" type="string" value="systray">
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “kami” active: kami (86%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (87%)"/>
+        <value type="string" value="configuring wi-fi network connection “shi”…"/>
+        <value type="string" value="ethernet network connection “wired connection 3” active"/>
         <value type="string" value="requesting a wi-fi network address for “sphinx”…"/>
         <value type="string" value="wi-fi network connection “sphinx” active: sphinx (76%)"/>
         <value type="string" value="wi-fi network connection “sphinx” active: sphinx (65%)"/>
@@ -401,6 +406,7 @@
         <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (82%)"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="vlc"/>
         <value type="string" value="obs"/>
         <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="blueman"/>

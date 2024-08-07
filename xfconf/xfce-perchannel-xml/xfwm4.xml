@@ -58,10 +58,10 @@
     <property name="snap_to_border" type="bool" value="false"/>
     <property name="snap_to_windows" type="bool" value="false"/>
     <property name="snap_width" type="int" value="100"/>
-    <property name="theme" type="string" value="Mojave-dark"/>
+    <property name="theme" type="string" value="Default-xhdpi"/>
     <property name="tile_on_move" type="bool" value="false"/>
     <property name="title_alignment" type="string" value="left"/>
-    <property name="title_font" type="string" value="SF Compact Text Light 9"/>
+    <property name="title_font" type="string" value="SF Pro Text Medium 13"/>
     <property name="title_horizontal_offset" type="int" value="0"/>
     <property name="title_shadow_active" type="string" value="false"/>
     <property name="title_shadow_inactive" type="string" value="false"/>
@@ -72,7 +72,7 @@
     <property name="toggle_workspaces" type="bool" value="true"/>
     <property name="unredirect_overlays" type="bool" value="true"/>
     <property name="urgent_blink" type="bool" value="true"/>
-    <property name="use_compositing" type="bool" value="false"/>
+    <property name="use_compositing" type="bool" value="true"/>
     <property name="workspace_count" type="int" value="2"/>
     <property name="workspace_names" type="array">
       <value type="string" value="default"/>
