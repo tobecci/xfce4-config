@@ -2,8 +2,8 @@
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="Cameo-Dark-Purple"/>
-    <property name="IconThemeName" type="string" value="WhiteSur-dark"/>
+    <property name="ThemeName" type="string" value="Xfce-Simple-Dark_widgets"/>
+    <property name="IconThemeName" type="string" value="Papirus-Dark"/>
     <property name="DoubleClickTime" type="int" value="700"/>
     <property name="DoubleClickDistance" type="int" value="20"/>
     <property name="DndDragThreshold" type="int" value="1"/>
@@ -23,8 +23,8 @@
   <property name="Gtk" type="empty">
     <property name="CanChangeAccels" type="bool" value="false"/>
     <property name="ColorPalette" type="empty"/>
-    <property name="FontName" type="string" value="SF Pro Text Medium 12"/>
-    <property name="MonospaceFontName" type="string" value="SF Mono Medium 12"/>
+    <property name="FontName" type="string" value="Circular Std Book, weight=450 9"/>
+    <property name="MonospaceFontName" type="string" value="Fira Code 9"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
     <property name="ToolbarStyle" type="empty"/>
@@ -32,8 +32,8 @@
     <property name="MenuImages" type="bool" value="false"/>
     <property name="ButtonImages" type="bool" value="false"/>
     <property name="MenuBarAccel" type="empty"/>
-    <property name="CursorThemeName" type="string" value="mate"/>
-    <property name="CursorThemeSize" type="int" value="42"/>
+    <property name="CursorThemeName" type="string" value="XCursor-Pro-Light"/>
+    <property name="CursorThemeSize" type="int" value="45"/>
     <property name="DecorationLayout" type="string" value="close:"/>
     <property name="DialogsUseHeader" type="bool" value="false"/>
     <property name="TitlebarMiddleClick" type="empty"/>

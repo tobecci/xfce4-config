@@ -50,10 +50,7 @@
   <property name="log-max-size" type="uint" value="30"/>
   <property name="notification-display-fields" type="string" value="full"/>
   <property name="theme" type="string" value="Bright"/>
-  <property name="show-notifications-on" type="string" value="all-monitors"/>
-  <property name="log-level" type="uint" value="1"/>
-  <property name="log-level-apps" type="uint" value="0"/>
-  <property name="notify-location" type="uint" value="3"/>
+  <property name="show-notifications-on" type="string" value="active-monitor"/>
   <property name="do-not-disturb" type="bool" value="false"/>
   <property name="do-fadeout" type="bool" value="false"/>
   <property name="plugin" type="empty">
@@ -66,5 +63,7 @@
   </property>
   <property name="mute-sounds" type="bool" value="false"/>
   <property name="gauge-ignores-dnd" type="bool" value="true"/>
-  <property name="primary-monitor" type="uint" value="0"/>
+  <property name="log-level" type="string" value="always"/>
+  <property name="log-level-apps" type="string" value="all"/>
+  <property name="notify-location" type="string" value="top-center"/>
 </channel>

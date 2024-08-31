@@ -12,7 +12,7 @@
     </property>
     <property name="RightHanded" type="bool" value="true"/>
     <property name="Threshold" type="int" value="1"/>
-    <property name="Acceleration" type="double" value="9"/>
+    <property name="Acceleration" type="double" value="5.2000000000000002"/>
     <property name="ReverseScrolling" type="bool" value="false"/>
   </property>
   <property name="Synaptics_TM3385-001" type="empty">

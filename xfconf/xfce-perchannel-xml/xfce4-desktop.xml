@@ -38,7 +38,7 @@
           <property name="last-image" type="string" value="/usr/share/images/desktop-base/default"/>
         </property>
         <property name="image-style" type="int" value="0"/>
-        <property name="saturation" type="double" value="4.6488383566587077e-72"/>
+        <property name="saturation" type="double" value="0"/>
       </property>
       <property name="monitor1" type="empty">
         <property name="brightness" type="empty"/>
@@ -54,7 +54,7 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/Wallpapers/Premium/geisha_i_by_7bpictures_dav77v7.jpg"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/darkWallpapers/cherry-laithang-NmPpz1jA_JE-unsplash.jpg"/>
         </property>
         <property name="workspace1" type="empty">
           <property name="color-style" type="int" value="0"/>
@@ -173,11 +173,11 @@
         <property name="workspace0" type="empty">
           <property name="color-style" type="int" value="0"/>
           <property name="image-style" type="int" value="5"/>
-          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/7.jpeg"/>
+          <property name="last-image" type="string" value="/home/tobecci/Pictures/wallpaper/3204572.jpg"/>
           <property name="rgba1" type="array">
-            <value type="double" value="0.21568627450980393"/>
-            <value type="double" value="0.21568627450980393"/>
-            <value type="double" value="0.21568627450980393"/>
+            <value type="double" value="0.21568599999999999"/>
+            <value type="double" value="0.21568599999999999"/>
+            <value type="double" value="0.21568599999999999"/>
             <value type="double" value="1"/>
           </property>
         </property>
@@ -260,12 +260,12 @@
     <property name="show-delete" type="bool" value="false"/>
   </property>
   <property name="last" type="empty">
-    <property name="window-height" type="int" value="559"/>
-    <property name="window-width" type="int" value="752"/>
+    <property name="window-height" type="int" value="588"/>
+    <property name="window-width" type="int" value="760"/>
   </property>
   <property name="windowlist-menu" type="empty">
     <property name="show-add-remove-workspaces" type="bool" value="false"/>
-    <property name="show" type="bool" value="false"/>
+    <property name="show" type="bool" value="true"/>
     <property name="show-submenus" type="bool" value="false"/>
     <property name="show-sticky-once" type="bool" value="true"/>
     <property name="show-icons" type="bool" value="true"/>

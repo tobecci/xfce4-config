@@ -4,17 +4,26 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
-    <value type="int" value="2"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=6;x=654;y=26"/>
       <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="21"/>
-      <property name="size" type="uint" value="53"/>
+      <property name="icon-size" type="uint" value="22"/>
+      <property name="size" type="uint" value="38"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
+        <value type="int" value="8"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
+        <value type="int" value="32"/>
+        <value type="int" value="4"/>
+        <value type="int" value="35"/>
+        <value type="int" value="5"/>
+        <value type="int" value="31"/>
+        <value type="int" value="6"/>
+        <value type="int" value="7"/>
+        <value type="int" value="33"/>
+        <value type="int" value="34"/>
       </property>
       <property name="enter-opacity" type="uint" value="100"/>
       <property name="leave-opacity" type="uint" value="100"/>
@@ -40,46 +49,6 @@
       <property name="background-alpha" type="int" value="100"/>
     </property>
     <property name="dark-mode" type="bool" value="true"/>
-    <property name="panel-2" type="empty">
-      <property name="position" type="string" value="p=8;x=97;y=1055"/>
-      <property name="size" type="uint" value="53"/>
-      <property name="length" type="double" value="100"/>
-      <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="18"/>
-      <property name="plugin-ids" type="array">
-        <value type="int" value="34"/>
-        <value type="int" value="36"/>
-        <value type="int" value="35"/>
-        <value type="int" value="17"/>
-        <value type="int" value="31"/>
-        <value type="int" value="11"/>
-        <value type="int" value="32"/>
-        <value type="int" value="28"/>
-        <value type="int" value="10"/>
-        <value type="int" value="7"/>
-        <value type="int" value="14"/>
-        <value type="int" value="33"/>
-        <value type="int" value="18"/>
-        <value type="int" value="15"/>
-      </property>
-      <property name="background-style" type="uint" value="1"/>
-      <property name="background-rgba" type="array">
-        <value type="double" value="0.11666700000000001"/>
-        <value type="double" value="0.11666700000000001"/>
-        <value type="double" value="0.11666700000000001"/>
-        <value type="double" value="0.80000000000000004"/>
-      </property>
-      <property name="enable-struts" type="bool" value="true"/>
-      <property name="autohide-behavior" type="uint" value="0"/>
-      <property name="background-image" type="string" value=""/>
-      <property name="background-alpha" type="int" value="100"/>
-      <property name="background-color" type="array">
-        <value type="uint" value="56540"/>
-        <value type="uint" value="56026"/>
-        <value type="uint" value="54741"/>
-        <value type="uint" value="65535"/>
-      </property>
-    </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-2" type="string" value="tasklist">
@@ -99,48 +68,44 @@
     </property>
     <property name="plugin-1" type="string" value="whiskermenu">
       <property name="button-icon" type="string" value="draw-circle"/>
-      <property name="launcher-show-description" type="bool" value="false"/>
-      <property name="launcher-icon-size" type="int" value="4"/>
+      <property name="launcher-show-description" type="bool" value="true"/>
+      <property name="launcher-icon-size" type="int" value="5"/>
       <property name="view-mode" type="int" value="0"/>
       <property name="favorites-in-recent" type="bool" value="true"/>
       <property name="position-categories-alternate" type="bool" value="true"/>
       <property name="position-categories-horizontal" type="bool" value="true"/>
-      <property name="menu-width" type="int" value="1100"/>
+      <property name="menu-width" type="int" value="907"/>
       <property name="menu-height" type="int" value="700"/>
       <property name="command-switchuser" type="string" value="dm-tool switch-to-greeter"/>
       <property name="favorites" type="array">
-        <value type="string" value="androidMirror-wifi.desktop"/>
-        <value type="string" value="androidMirror-usb.desktop"/>
-        <value type="string" value="firefoxProfiles-tobecci.desktop"/>
-        <value type="string" value="firefoxProfiles-socials2.desktop"/>
-        <value type="string" value="firefoxProfiles-kloza.desktop"/>
-        <value type="string" value="firefoxProfiles-socials1.desktop"/>
         <value type="string" value="code.desktop"/>
-        <value type="string" value="insomnium.desktop"/>
-        <value type="string" value="robo3t.desktop"/>
-        <value type="string" value="octopi.desktop"/>
-        <value type="string" value="trilium-notes.desktop"/>
         <value type="string" value="nm-connection-editor.desktop"/>
+        <value type="string" value="bitwarden.desktop"/>
+        <value type="string" value="insomnium.desktop"/>
         <value type="string" value="nvidia-settings.desktop"/>
+        <value type="string" value="octopi.desktop"/>
+        <value type="string" value="qt5ct.desktop"/>
+        <value type="string" value="xfce-workspaces-settings.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="garuda-assistant.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="galculator.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="nm-connection-editor.desktop"/>
-        <value type="string" value="org.gnome.Cheese.desktop"/>
-        <value type="string" value="insomnium.desktop"/>
-        <value type="string" value="octopi.desktop"/>
-        <value type="string" value="wine-Programs-Games-Batman - Arkham Knight-Uninstall Batman - Arkham Knight.desktop"/>
-        <value type="string" value="firefoxProfiles-kloza.desktop"/>
-        <value type="string" value="trilium-notes.desktop"/>
         <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="robo3t.desktop"/>
+        <value type="string" value="nm-connection-editor.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="xfce-workspaces-settings.desktop"/>
         <value type="string" value="qt5ct.desktop"/>
+        <value type="string" value="octopi.desktop"/>
+        <value type="string" value="nvidia-settings.desktop"/>
+        <value type="string" value="xterm.desktop"/>
+        <value type="string" value="camorama.desktop"/>
+        <value type="string" value="org.gnome.Cheese.desktop"/>
       </property>
-      <property name="menu-opacity" type="int" value="57"/>
-      <property name="category-icon-size" type="int" value="2"/>
+      <property name="menu-opacity" type="int" value="100"/>
+      <property name="category-icon-size" type="int" value="3"/>
       <property name="launcher-show-name" type="bool" value="true"/>
-      <property name="launcher-show-tooltip" type="bool" value="false"/>
+      <property name="launcher-show-tooltip" type="bool" value="true"/>
       <property name="button-single-row" type="bool" value="false"/>
       <property name="stay-on-focus-out" type="bool" value="false"/>
       <property name="show-button-title" type="bool" value="false"/>
@@ -153,10 +118,11 @@
       <property name="hover-switch-category" type="bool" value="false"/>
       <property name="show-button-icon" type="bool" value="true"/>
       <property name="button-title" type="string" value="../"/>
+      <property name="position-search-alternate" type="bool" value="true"/>
     </property>
     <property name="clipman" type="empty">
       <property name="tweaks" type="empty">
-        <property name="popup-at-pointer" type="bool" value="true"/>
+        <property name="popup-at-pointer" type="bool" value="false"/>
         <property name="max-menu-items" type="uint" value="20"/>
         <property name="paste-on-activate" type="uint" value="0"/>
         <property name="never-confirm-history-clear" type="bool" value="true"/>
@@ -186,7 +152,7 @@
       <property name="volume-max" type="uint" value="300"/>
       <property name="play-sound" type="bool" value="true"/>
       <property name="rec-indicator-persistent" type="bool" value="true"/>
-      <property name="known-players" type="string" value="firefox;vlc"/>
+      <property name="known-players" type="string" value="firefox;io.github.celluloid_player.Celluloid;vlc"/>
       <property name="volume-step" type="uint" value="5"/>
       <property name="enable-multimedia-keys" type="bool" value="false"/>
       <property name="show-notifications" type="uint" value="1"/>
@@ -194,11 +160,39 @@
       <property name="enable-mpris" type="bool" value="true"/>
       <property name="ignored-players" type="string" value=""/>
       <property name="persistent-players" type="string" value=""/>
-      <property name="mpris-players" type="string" value="vlc"/>
+      <property name="mpris-players" type="string" value="io.github.celluloid_player.Celluloid.instance-1;vlc"/>
     </property>
     <property name="plugin-32" type="string" value="power-manager-plugin"/>
     <property name="plugin-33" type="string" value="systray">
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “...u..n..o...” active: ...u..n..o... (80%)"/>
+        <value type="string" value="wi-fi network connection “...u..n..o...” active: ...u..n..o... (100%)"/>
+        <value type="string" value="wi-fi network connection “..u.n..o..” active: ..u.n..o.. (57%)"/>
+        <value type="string" value="wi-fi network connection “..u.n..o...” active: ..u.n..o... (71%)"/>
+        <value type="string" value="wi-fi network connection “uno” active: uno (67%)"/>
+        <value type="string" value="wi-fi network connection “uno” active: uno (97%)"/>
+        <value type="string" value="wi-fi network connection “uno” active: uno (100%)"/>
+        <value type="string" value="configuring wi-fi network connection “dlink_dwr-930m_4824”…"/>
+        <value type="string" value="wi-fi network connection “victech” active: victech (95%)"/>
+        <value type="string" value="wi-fi network connection “victech” active: victech (97%)"/>
+        <value type="string" value="wi-fi network connection “victech” active: victech (100%)"/>
+        <value type="string" value="wi-fi network connection “dlink_dwr-930m_4824” active: dlink_dwr-930m_4824 (99%)"/>
+        <value type="string" value="wi-fi network connection “dlink_dwr-930m_4824” active: dlink_dwr-930m_4824 (100%)"/>
+        <value type="string" value="wi-fi network connection “victech” active: victech (75%)"/>
+        <value type="string" value="wi-fi network connection “victech” active: victech (76%)"/>
+        <value type="string" value="wi-fi network connection “victech” active: victech (82%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (80%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (81%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (90%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (88%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (91%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (83%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (89%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (82%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (93%)"/>
+        <value type="string" value="wi-fi network connection “kami” active: kami (75%)"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="redshift-gtk"/>
         <value type="string" value="wi-fi network connection “kami” active: kami (86%)"/>
         <value type="string" value="wi-fi network connection “kami” active: kami (87%)"/>
         <value type="string" value="configuring wi-fi network connection “shi”…"/>
@@ -406,12 +400,15 @@
         <value type="string" value="wi-fi network connection “mifi_tobecci” active: mifi_tobecci (82%)"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="octopi-notifier"/>
+        <value type="string" value="Garuda System Maintenance"/>
+        <value type="string" value="redshift"/>
         <value type="string" value="vlc"/>
         <value type="string" value="obs"/>
         <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="blueman"/>
       </property>
-      <property name="icon-size" type="int" value="18"/>
+      <property name="icon-size" type="int" value="22"/>
       <property name="square-icons" type="bool" value="true"/>
       <property name="single-row" type="bool" value="true"/>
       <property name="symbolic-icons" type="bool" value="true"/>
@@ -437,35 +434,19 @@
       <property name="command" type="string" value=""/>
     </property>
     <property name="plugin-35" type="string" value="netload"/>
-    <property name="plugin-36" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-      <property name="expand" type="bool" value="true"/>
-    </property>
     <property name="plugin-7" type="string" value="notification-plugin"/>
-    <property name="plugin-10" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-11" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-14" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-15" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-17" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-18" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
-    <property name="plugin-28" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
       <property name="expand" type="bool" value="true"/>
+    </property>
+    <property name="plugin-4" type="string" value="separator"/>
+    <property name="plugin-5" type="string" value="separator"/>
+    <property name="plugin-6" type="string" value="separator"/>
+    <property name="plugin-8" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="false"/>
+      <property name="workspace-scrolling" type="bool" value="false"/>
+      <property name="numbering" type="bool" value="false"/>
     </property>
   </property>
 </channel>
