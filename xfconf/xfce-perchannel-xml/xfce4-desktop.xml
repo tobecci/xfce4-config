@@ -265,7 +265,7 @@
   </property>
   <property name="windowlist-menu" type="empty">
     <property name="show-add-remove-workspaces" type="bool" value="false"/>
-    <property name="show" type="bool" value="true"/>
+    <property name="show" type="bool" value="false"/>
     <property name="show-submenus" type="bool" value="false"/>
     <property name="show-sticky-once" type="bool" value="true"/>
     <property name="show-icons" type="bool" value="true"/>

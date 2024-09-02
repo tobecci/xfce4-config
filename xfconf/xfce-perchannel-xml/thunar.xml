@@ -4,7 +4,7 @@
   <property name="default-view" type="string" value="ThunarDetailsView"/>
   <property name="last-compact-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_250_PERCENT"/>
   <property name="last-details-view-column-order" type="string" value="THUNAR_COLUMN_NAME,THUNAR_COLUMN_SIZE,THUNAR_COLUMN_TYPE,THUNAR_COLUMN_DATE_MODIFIED"/>
-  <property name="last-details-view-column-widths" type="string" value="174,215,152,211,1210,67,69,84,1295,178,50,61,50,50"/>
+  <property name="last-details-view-column-widths" type="string" value="174,215,190,211,1210,67,69,84,551,178,50,59,50,50"/>
   <property name="last-details-view-fixed-columns" type="bool" value="false"/>
   <property name="last-details-view-visible-columns" type="string" value="THUNAR_COLUMN_DATE_MODIFIED,THUNAR_COLUMN_NAME,THUNAR_COLUMN_SIZE"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_150_PERCENT"/>
@@ -13,13 +13,13 @@
   <property name="last-separator-position" type="int" value="355"/>
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="last-side-pane" type="string" value="ThunarShortcutsPane"/>
-  <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
-  <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
+  <property name="last-sort-column" type="string" value="THUNAR_COLUMN_DATE_MODIFIED"/>
+  <property name="last-sort-order" type="string" value="GTK_SORT_DESCENDING"/>
   <property name="last-statusbar-visible" type="bool" value="true"/>
   <property name="last-view" type="string" value="ThunarDetailsView"/>
-  <property name="last-window-height" type="int" value="751"/>
-  <property name="last-window-width" type="int" value="1262"/>
-  <property name="last-window-maximized" type="bool" value="true"/>
+  <property name="last-window-height" type="int" value="703"/>
+  <property name="last-window-width" type="int" value="1156"/>
+  <property name="last-window-maximized" type="bool" value="false"/>
   <property name="misc-volume-management" type="bool" value="true"/>
   <property name="misc-case-sensitive" type="bool" value="false"/>
   <property name="misc-date-style" type="string" value="THUNAR_DATE_STYLE_LONG"/>
@@ -47,7 +47,7 @@
   <property name="last-focused-tab-right" type="int" value="0"/>
   <property name="last-splitview-separator-position" type="int" value="803"/>
   <property name="last-tabs-left" type="array">
-    <value type="string" value="file:///home/tobecci/dev/personalProjects/productivity/tobecci.todo"/>
+    <value type="string" value="file:///home/tobecci/dev/organizations/raoatech/lk-backend"/>
   </property>
   <property name="last-menubar-visible" type="bool" value="true"/>
   <property name="misc-open-new-window-as-tab" type="bool" value="false"/>

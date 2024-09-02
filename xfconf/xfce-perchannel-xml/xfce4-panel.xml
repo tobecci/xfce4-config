@@ -12,7 +12,6 @@
       <property name="size" type="uint" value="38"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
-        <value type="int" value="8"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
         <value type="int" value="32"/>
@@ -81,6 +80,7 @@
         <value type="string" value="code.desktop"/>
         <value type="string" value="nm-connection-editor.desktop"/>
         <value type="string" value="bitwarden.desktop"/>
+        <value type="string" value="postman.desktop"/>
         <value type="string" value="insomnium.desktop"/>
         <value type="string" value="nvidia-settings.desktop"/>
         <value type="string" value="octopi.desktop"/>
@@ -91,16 +91,16 @@
         <value type="string" value="xfce-session-settings.desktop"/>
       </property>
       <property name="recent" type="array">
-        <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="nm-connection-editor.desktop"/>
-        <value type="string" value="xfce-wm-settings.desktop"/>
         <value type="string" value="xfce-workspaces-settings.desktop"/>
-        <value type="string" value="qt5ct.desktop"/>
+        <value type="string" value="nm-connection-editor.desktop"/>
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="postman.desktop"/>
+        <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="uad_gui.desktop"/>
         <value type="string" value="octopi.desktop"/>
         <value type="string" value="nvidia-settings.desktop"/>
-        <value type="string" value="xterm.desktop"/>
-        <value type="string" value="camorama.desktop"/>
-        <value type="string" value="org.gnome.Cheese.desktop"/>
+        <value type="string" value="garuda-assistant.desktop"/>
+        <value type="string" value="xfce-settings-manager.desktop"/>
       </property>
       <property name="menu-opacity" type="int" value="100"/>
       <property name="category-icon-size" type="int" value="3"/>
@@ -442,11 +442,5 @@
     <property name="plugin-4" type="string" value="separator"/>
     <property name="plugin-5" type="string" value="separator"/>
     <property name="plugin-6" type="string" value="separator"/>
-    <property name="plugin-8" type="string" value="pager">
-      <property name="rows" type="uint" value="1"/>
-      <property name="miniature-view" type="bool" value="false"/>
-      <property name="workspace-scrolling" type="bool" value="false"/>
-      <property name="numbering" type="bool" value="false"/>
-    </property>
   </property>
 </channel>
