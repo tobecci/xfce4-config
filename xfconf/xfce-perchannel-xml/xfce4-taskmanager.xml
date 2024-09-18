@@ -22,7 +22,7 @@
     <property name="show-legend" type="bool" value="true"/>
     <property name="more-precision" type="bool" value="true"/>
     <property name="show-filter" type="bool" value="true"/>
-    <property name="refresh-rate" type="uint" value="500"/>
+    <property name="refresh-rate" type="uint" value="5000"/>
     <property name="full-command-line" type="bool" value="true"/>
     <property name="show-application-icons" type="bool" value="true"/>
   </property>

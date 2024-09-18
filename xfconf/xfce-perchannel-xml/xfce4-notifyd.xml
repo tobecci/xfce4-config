@@ -51,7 +51,7 @@
   <property name="notification-display-fields" type="string" value="full"/>
   <property name="theme" type="string" value="Bright"/>
   <property name="show-notifications-on" type="string" value="active-monitor"/>
-  <property name="do-not-disturb" type="bool" value="false"/>
+  <property name="do-not-disturb" type="bool" value="true"/>
   <property name="do-fadeout" type="bool" value="false"/>
   <property name="plugin" type="empty">
     <property name="show-in-menu" type="string" value="show-all"/>
@@ -65,5 +65,5 @@
   <property name="gauge-ignores-dnd" type="bool" value="true"/>
   <property name="log-level" type="string" value="always"/>
   <property name="log-level-apps" type="string" value="all"/>
-  <property name="notify-location" type="string" value="top-center"/>
+  <property name="notify-location" type="string" value="bottom-right"/>
 </channel>

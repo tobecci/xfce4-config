@@ -23,8 +23,8 @@
   <property name="Gtk" type="empty">
     <property name="CanChangeAccels" type="bool" value="false"/>
     <property name="ColorPalette" type="empty"/>
-    <property name="FontName" type="string" value="Circular Std Medium, Medium 13"/>
-    <property name="MonospaceFontName" type="string" value="Fira Code Medium 13"/>
+    <property name="FontName" type="string" value="SF Compact Text Semi-Bold 7"/>
+    <property name="MonospaceFontName" type="string" value="SF Mono Bold 6"/>
     <property name="IconSizes" type="empty"/>
     <property name="KeyThemeName" type="empty"/>
     <property name="ToolbarStyle" type="empty"/>

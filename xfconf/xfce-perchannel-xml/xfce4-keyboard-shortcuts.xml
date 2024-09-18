@@ -83,6 +83,8 @@
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Super&gt;f" type="string" value="firefox --profile /home/tobecci/dev/browserProfiles/firefox/dev --new-instance"/>
       <property name="&lt;Super&gt;s" type="string" value="/home/tobecci/.scripts/scrot/regionToClipboard"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;s" type="string" value="/home/tobecci/.scripts/scrot/fullscreenToFile"/>
+      <property name="&lt;Primary&gt;&lt;Super&gt;t" type="string" value="code --new-window /home/tobecci/dev/tobecci.todo/"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;l" type="string" value="xflock4"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

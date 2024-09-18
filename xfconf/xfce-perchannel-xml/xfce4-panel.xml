@@ -9,7 +9,7 @@
       <property name="position" type="string" value="p=6;x=0;y=0"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="20"/>
+      <property name="icon-size" type="uint" value="16"/>
       <property name="size" type="uint" value="37"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
@@ -31,6 +31,8 @@
         <value type="double" value="0.80000000000000004"/>
       </property>
       <property name="nrows" type="uint" value="1"/>
+      <property name="enable-struts" type="bool" value="true"/>
+      <property name="length-adjust" type="bool" value="true"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -66,20 +68,15 @@
         <value type="string" value="blueman"/>
         <value type="string" value="redshift"/>
       </property>
-      <property name="icon-size" type="int" value="20"/>
+      <property name="icon-size" type="int" value="16"/>
       <property name="single-row" type="bool" value="false"/>
       <property name="symbolic-icons" type="bool" value="false"/>
       <property name="hide-new-items" type="bool" value="false"/>
       <property name="hidden-items" type="array">
-        <value type="string" value="redshift"/>
-        <value type="string" value="octopi-notifier"/>
-        <value type="string" value="blueman"/>
-        <value type="string" value="Garuda System Maintenance"/>
       </property>
       <property name="hidden-legacy-items" type="array">
         <value type="string" value="wi-fi network connection “tobecci” active: tobecci (78%)"/>
         <value type="string" value="wi-fi network connection “tobecci” active: tobecci (80%)"/>
-        <value type="string" value="clipman"/>
       </property>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
@@ -110,16 +107,16 @@
       <property name="position-categories-alternate" type="bool" value="true"/>
       <property name="button-icon" type="string" value="draw-circle"/>
       <property name="recent" type="array">
-        <value type="string" value="nvidia-settings.desktop"/>
-        <value type="string" value="uad_gui.desktop"/>
         <value type="string" value="postman.desktop"/>
-        <value type="string" value="xfce4-appfinder.desktop"/>
-        <value type="string" value="xfce-display-settings.desktop"/>
-        <value type="string" value="xfce-session-settings.desktop"/>
-        <value type="string" value="xfce4-screensaver-preferences.desktop"/>
-        <value type="string" value="virt-manager.desktop"/>
+        <value type="string" value="uad_gui.desktop"/>
         <value type="string" value="octopi.desktop"/>
+        <value type="string" value="xfce4-screensaver-preferences.desktop"/>
+        <value type="string" value="lightdm-gtk-greeter-settings.desktop"/>
+        <value type="string" value="org.gnome.seahorse.Application.desktop"/>
         <value type="string" value="qt6ct.desktop"/>
+        <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="virt-manager.desktop"/>
+        <value type="string" value="xfce4-notifyd-config.desktop"/>
       </property>
       <property name="view-mode" type="int" value="0"/>
       <property name="position-categories-horizontal" type="bool" value="true"/>

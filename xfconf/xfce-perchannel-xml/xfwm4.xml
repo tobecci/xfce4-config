@@ -58,10 +58,10 @@
     <property name="snap_to_border" type="bool" value="false"/>
     <property name="snap_to_windows" type="bool" value="false"/>
     <property name="snap_width" type="int" value="100"/>
-    <property name="theme" type="string" value="Default-xhdpi"/>
+    <property name="theme" type="string" value="Default-hdpi"/>
     <property name="tile_on_move" type="bool" value="false"/>
     <property name="title_alignment" type="string" value="left"/>
-    <property name="title_font" type="string" value="Circular Std Medium, Medium 14"/>
+    <property name="title_font" type="string" value="SF Compact Text Semi-Bold 8"/>
     <property name="title_horizontal_offset" type="int" value="0"/>
     <property name="title_shadow_active" type="string" value="false"/>
     <property name="title_shadow_inactive" type="string" value="false"/>
@@ -94,7 +94,7 @@
     <property name="zoom_desktop" type="bool" value="false"/>
     <property name="zoom_pointer" type="bool" value="false"/>
     <property name="margin_left" type="int" value="20"/>
-    <property name="margin_top" type="int" value="110"/>
+    <property name="margin_top" type="int" value="95"/>
     <property name="margin_right" type="int" value="20"/>
     <property name="margin_bottom" type="int" value="20"/>
   </property>
